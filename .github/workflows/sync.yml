@@ -1,5 +1,6 @@
 # Copy this site's files from the shared catalog repository (ChiaraMingarelli/funding-finders,
-# folder sites/<this repo>/) and publish them. Runs every hour; publishes only when something changed.
+# folder sites/<this repo>/) and publish them. Runs every hour; publishes when something changed
+# or when the live site does not match this repository.
 name: Sync from the shared catalog
 
 on:
@@ -9,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: sync-pages
@@ -19,7 +21,13 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       changed: ${{ steps.fetch.outputs.changed }}
+      stale: ${{ steps.fetch.outputs.stale }}
     steps:
+      - name: Keep the hourly schedule enabled
+        if: github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/sync.yml/enable"
       - uses: actions/checkout@v4
       - name: Fetch this site's files
         id: fetch
@@ -31,12 +39,18 @@ jobs:
           git -C "$RUNNER_TEMP/hub" sparse-checkout set "sites/$REPO"
           SRC="$RUNNER_TEMP/hub/sites/$REPO"
           test -s "$SRC/MANIFEST"
+          if [ -f .sync-manifest ]; then
+            comm -23 <(sort .sync-manifest) <(sort "$SRC/MANIFEST") | while read -r f; do
+              [ -n "$f" ] && git rm -q --ignore-unmatch -- "$f"
+            done
+          fi
           while read -r f; do
             [ -z "$f" ] && continue
             case "$f" in *..*|/*) echo "::error::bad path in MANIFEST: $f"; exit 1;; esac
             mkdir -p "$(dirname "$f")"
             cp "$SRC/$f" "$f"
           done < "$SRC/MANIFEST"
+          cp "$SRC/MANIFEST" .sync-manifest
           python3 - <<'PY'
           import json, re
           html = open("index.html", encoding="utf-8").read()
@@ -48,6 +62,8 @@ jobs:
           open(p, "w", encoding="utf-8").write(re.sub(r"(`data/programs\.json` has )\d+( programs)", rf"\g<1>{n}\g<2>", s))
           print(n, "programs")
           PY
+          live=$(curl -fsSL "https://chiaramingarelli.github.io/$REPO/index.html" | sha256sum | cut -d' ' -f1 || true)
+          if [ "$live" = "$(sha256sum index.html | cut -d' ' -f1)" ]; then echo "stale=false" >> "$GITHUB_OUTPUT"; else echo "stale=true" >> "$GITHUB_OUTPUT"; fi
           git add -A
           if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; else echo "changed=true" >> "$GITHUB_OUTPUT"; fi
       - name: Commit
@@ -60,9 +76,10 @@ jobs:
 
   deploy:
     needs: sync
-    if: needs.sync.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+    if: needs.sync.outputs.changed == 'true' || needs.sync.outputs.stale == 'true' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
+      contents: read
       pages: write
       id-token: write
     environment:
