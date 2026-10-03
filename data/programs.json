@@ -608,9 +608,9 @@
   "a": "One-week conferences (~80 people)",
   "added": "2026-09-29",
   "c": "Visiting program",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "Mar 2027 conferences: Sep 30, 2026; Jan/Feb conferences closed Sep 15, 2026",
+  "checked": "2026-10-03",
+  "d": "2026-10-15",
+  "dt": "Most 2027 deadlines have passed; Multimessenger Probes of New Scales in Physics (Jan 10-15) and World Models (Feb 28-Mar 5) take applications until Oct 15, 2026",
   "e": "Open application through the ACP portal.",
   "f": "Aspen Center for Physics",
   "fields": [
@@ -760,9 +760,9 @@
    "inst"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-10-02",
-  "dt": "Oct 2, 2026",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 2, 2026; the next cycle is not posted yet.",
   "e": "Postdocs developing instrumentation for astronomy, cosmology and planetary science.",
   "f": "Astronova program (Carnegie, Keck, U. Arizona, UC Berkeley, UCSD, UCSC)",
   "fields": [
@@ -774,12 +774,12 @@
   "nfit": "Medium",
   "nom": false,
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "src": "aas:c5b5f68e",
   "stages": [
    "pd"
   ],
-  "u": "https://hsfoundation.tfaforms.net/f/AstronovaApplication",
+  "u": "https://www.hsfoundation.org/programs/science/astronomical-innovation-astronova-fellowship/",
   "us": false
  },
  {
@@ -1011,34 +1011,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32276",
-  "us": false
- },
- {
-  "a": "Nights on the Calar Alto 2.2-m and 3.5-m telescopes in visitor or service mode for semester 27A. Typically up to 5% of the open time may go to non-partner PIs. No funding.",
-  "added": "2026-10-03",
-  "asub": [],
-  "c": "Observing time",
-  "checked": "2026-10-03",
-  "d": "2026-10-14",
-  "dt": "Deadline 14 Oct 2026, 14:00:00 UT; submissions accepted from 16 Sep 2026. Observing period 1 Jan to 30 Jun 2027.",
-  "e": "Open call for the two main Calar Alto telescopes in Spain. Open time is mainly for Spain-based PIs. PIs at non-Spanish institutions may apply, but get time only if the CAHA TAC rates them extremely well, and they must justify having no access to a similar instrument at their own facilities.",
-  "f": "CAHA (Centro Astronómico Hispano en Andalucía; CSIC / Junta de Andalucía)",
-  "fields": [
-   "astro"
-  ],
-  "id": "caha-calar-alto-27a",
-  "n": "Calar Alto Observatory 2.2-m and 3.5-m Call for Proposals, Semester 27A",
-  "nom": false,
-  "pt": "other",
-  "region": "International",
-  "s": "open",
-  "src": "other:caha-cfp",
-  "stages": [
-   "tt",
-   "ten",
-   "pd"
-  ],
-  "u": "https://www.caha.es/APPS/CfP/public/CfP27A.pdf",
   "us": false
  },
  {
@@ -2188,9 +2160,9 @@
   "a": "Up to $500K over 24-month base plus an optional 12-month $500K (Director's Fellowship)",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2025-10-15",
-  "dt": "YFA 2026 (DARPA-RA-25-02): executive summary Oct 15, 2025; full proposal Jan 20, 2026. DARPA says the annual call usually posts Sep–Oct, so YFA 2027 is imminent but not yet found.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "YFA 2027 call not posted yet; DARPA says the annual call usually posts in September or October. YFA 2026 executive summaries were due Oct 15, 2025",
   "e": "Current tenure-track assistant or associate professors, or tenured faculty within 3 years of tenure date, at US institutions. OPEN to US citizens, permanent residents AND foreign nationals. Excluded if prior DARPA funding exceeds $500K (or all DoD funding exceeds $1.25M).",
   "f": "DARPA",
   "fields": [
@@ -2293,9 +2265,9 @@
   "a": "Phase I $500k to $750k (9 mo); Phase II 3 to 5x Phase I over 3 yrs",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
+  "checked": "2026-10-03",
   "d": null,
-  "dt": "Phase I and II deadlines (Apr 28 and May 19, 2026) have passed",
+  "dt": "FY26 deadlines (May 1 and May 19, 2026) have passed; the Dec 17, 2026 date is only for FY26 Phase I awardees. DOE says it plans a second competition in FY27, not posted yet",
   "e": "Research, tenure-track and tenured faculty; limited submission (one lead application per focus area per institution at peer universities). Non-US citizens can be PI if authorized to work.",
   "f": "DOE Office of Science",
   "fields": [
@@ -2313,7 +2285,7 @@
    }
   ],
   "nom": true,
-  "s": "closed",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -2413,30 +2385,6 @@
    "gr"
   ],
   "u": "https://science.osti.gov/wdts/scgsr",
-  "us": true
- },
- {
-  "a": "Paid internship at a DOE lab",
-  "added": "2026-09-29",
-  "c": "Summer program",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026, 5 pm ET",
-  "e": "US citizens/PR undergrads or recent grads in STEM.",
-  "f": "DOE Office of Science",
-  "fields": [
-   "all"
-  ],
-  "id": "doe-suli-spring-2027-term",
-  "n": "DOE SULI - Spring 2027 term",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug"
-  ],
-  "u": "https://science.osti.gov/wdts/suli",
   "us": true
  },
  {
@@ -3087,9 +3035,9 @@
   "a": "$2,000 for graduate students; $3,000 for postdocs",
   "added": "2026-09-28",
   "c": "Yale internal",
-  "checked": "2026-09-29",
-  "d": "2026-08-28",
-  "dt": "The 2026–27 competition deadline was Aug 28, 2026. Email the proposal to ty.kamp@yale.edu.",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Aug 28, 2026 (2026-27 awards); the next competition is not posted yet",
   "e": "Yale graduate students and postdocs with two faculty mentors from different disciplines, for a science–humanities project.",
   "f": "Franke Program in Science and the Humanities",
   "fields": [
@@ -3098,7 +3046,7 @@
   "id": "franke-interdisciplinary-research-award-science-humanities",
   "n": "Franke Interdisciplinary Research Award (Science & Humanities)",
   "nom": false,
-  "s": "closed",
+  "s": "watch",
   "stages": [
    "pd",
    "gr"
@@ -3435,9 +3383,9 @@
    "he"
   ],
   "c": "Training",
-  "checked": "2026-10-01",
-  "d": "2026-10-02",
-  "dt": "Oct 2026 workshop (virtual, Oct 27–30) applications close Oct 2, 2026; held about twice a year",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 2, 2026 for the Oct 27-30 virtual workshop; the next workshop is not posted yet (held about twice a year)",
   "e": "Open to GBT observers and the professional community (no amateurs), with priority for people who have active or pending GBT proposals. Directly relevant to NANOGrav GBT timing observers.",
   "f": "Green Bank Observatory",
   "fields": [
@@ -3450,7 +3398,7 @@
   "nom": false,
   "pt": "other",
   "region": "US",
-  "s": "open",
+  "s": "watch",
   "src": "other:gbo",
   "stages": [
    "gr",
@@ -4128,9 +4076,9 @@
    "inst"
   ],
   "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
+  "checked": "2026-10-03",
+  "d": "2026-12-31",
+  "dt": "Applications through Dec 31, 2026 (FAPESP listing); reviewed until filled.",
   "e": "SWGO detector simulations for gamma-ray arrays. Requires a PhD in physics or astronomy with simulation and coding skills.",
   "f": "Universidade de São Paulo, IAG; PI Elisabete de Gouveia Dal Pino",
   "fields": [
@@ -4146,7 +4094,7 @@
   "stages": [
    "pd"
   ],
-  "u": "http://www.iag.usp.br",
+  "u": "https://fapesp.br/oportunidades/explorando-desenhos-de-detectores-cherenkov-em-%C3%81gua-%E2%80%93-de-dupla-camada-%E2%80%93-para-o-swgo:-aproximando-o-ao-ctao/9059/",
   "us": false
  },
  {
@@ -4311,9 +4259,9 @@
   "a": "competitive; not specified",
   "added": "2026-09-30",
   "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Rolling review with no fixed deadline; INSPIRE listing runs to Apr 30, 2027.",
   "e": "Magnetic monopoles, cosmic rays and exotics. Requires a PhD and Geant4/CORSIKA and Python/ROOT skills.",
   "f": "Institute of High Energy Physics, Beijing; contact Igor Ostrovskiy",
   "fields": [
@@ -4325,7 +4273,7 @@
   "nfit": "Medium",
   "nom": false,
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3149734",
   "stages": [
    "pd"
@@ -4361,34 +4309,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/29978",
-  "us": false
- },
- {
-  "a": "not listed; 3 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026 (internal expression of interest)",
-  "e": "Internal expression of interest for hosting 1851 Research Fellowships in physics. For recent PhDs with at most 2.5 years of postdoc.",
-  "f": "Imperial College London, Department of Physics (fellowships team)",
-  "fields": [
-   "astro",
-   "cmx",
-   "amo",
-   "ppx"
-  ],
-  "id": "imperial-college-royal-commission-for-the-exhibition-of-",
-  "n": "Imperial College: Royal Commission for the Exhibition of 1851 Research Fellowship (EOI)",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3119877",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.imperial.ac.uk/physics/opportunities/research-fellowships/",
   "us": false
  },
  {
@@ -4833,9 +4753,9 @@
    "inst"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-09-30",
-  "dt": "2026/09/30 10:59:59 (time zone not stated) - closes today",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Sep 30, 2026 date has passed; open until the positions are filled (AJO listing to Dec 31, 2026).",
   "e": "Quantum sensors and devices for dark matter, axion and gravitational-wave detection. PhD in physics or related field by start.",
   "f": "KEK, International Center for Quantum-field Measurement Systems for Studies of the Universe and Particles (QUP)",
   "fields": [
@@ -4849,7 +4769,7 @@
   "nfit": "High",
   "nom": false,
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "ajo:32184",
   "stages": [
    "pd"
@@ -5013,9 +4933,9 @@
    "cos"
   ],
   "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Deadline was Sep 30, 2026; applications are still considered until the position is filled.",
   "e": "Particle phenomenology and cosmology, focused on astroparticle, dark matter and BSM. Requires a PhD in particle physics.",
   "f": "Kyungpook National University, Daegu; PI Seokhoon Yun",
   "fields": [
@@ -5027,7 +4947,7 @@
   "nfit": "Medium",
   "nom": false,
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3198255",
   "stages": [
    "pd"
@@ -5226,9 +5146,9 @@
    "he"
   ],
   "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "No deadline; applications are reviewed weekly.",
   "e": "Theoretical physics and mathematics. The summary notes the scheme targets researchers with a Russian background; check eligibility on the page.",
   "f": "London Institute for Mathematical Sciences",
   "fields": [
@@ -5241,7 +5161,7 @@
   "nfit": "High",
   "nom": false,
   "region": "International",
-  "s": "open",
+  "s": "rolling",
   "src": "inspire:3118038",
   "stages": [
    "pd"
@@ -5527,35 +5447,6 @@
   ],
   "u": "https://www.oeaw.ac.at/jobs?jh=uy5i0affp3iqf8t6bwrmcvptsjrjvhk",
   "us": false
- },
- {
-  "a": "1 or 2 yrs of UK graduate study",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": "2026-09-29",
-  "dt": "Applicant deadline Sep 29, 2026, 5 pm local; institutional endorsement Oct 1, 2026",
-  "e": "US citizens; must be endorsed by the undergraduate institution (max 24 per institution).",
-  "f": "Marshall Aid Commemoration Commission",
-  "fields": [
-   "all"
-  ],
-  "id": "marshall-scholarship-2027",
-  "n": "Marshall Scholarship (2027)",
-  "nfit": "Low",
-  "nom": true,
-  "region": "US",
-  "s": "open",
-  "stages": [
-   "ug"
-  ],
-  "u": "https://www.marshallscholarship.org/apply",
-  "us": true,
-  "yale": {
-   "d": "2026-07-29",
-   "t": "Yale endorsement is required (Common Application for Endorsement). Campus deadlines were Jul 15, 2026 at 1pm and Jul 29, 2026 at 1pm. Marshall national deadline Sep 29. This has passed.",
-   "u": "https://funding.yale.edu/marshall-rhodes-scholarships-yale-application"
-  }
  },
  {
   "a": "TVöD E13, 2–5 yr",
@@ -6387,31 +6278,6 @@
   "us": false
  },
  {
-  "a": "350,000 JPY/month; 3 years",
-  "added": "2026-09-30",
-  "c": "Fellowship",
-  "checked": "2026-09-30",
-  "d": "2026-10-02",
-  "dt": "Oct 2, 2026",
-  "e": "Project research under a chosen NAOJ host. Applicants must consult the host in advance.",
-  "f": "National Astronomical Observatory of Japan (host researcher chosen by applicant)",
-  "fields": [
-   "astro"
-  ],
-  "id": "naoj-fy2027-project-research-fellow",
-  "n": "NAOJ: FY2027 Project Research Fellow",
-  "nfit": "Medium",
-  "nom": false,
-  "region": "International",
-  "s": "open",
-  "src": "aas:34ec514a",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://aas.org/jobregister/ad/34ec514a",
-  "us": false
- },
- {
   "a": "Archival analysis grants",
   "added": "2026-09-28",
   "c": "Federal grant",
@@ -6942,37 +6808,6 @@
   "u": "https://www.nersc.gov/news-and-events/news/2026-ai-for-science-cfp",
   "unv": "DOE-funding requirement",
   "us": false
- },
- {
-  "a": "Cycle 9 offered small archival-analysis grants only, no new observing time",
-  "added": "2026-10-03",
-  "asub": [
-   "he"
-  ],
-  "c": "Observing time",
-  "checked": "2026-10-03",
-  "d": null,
-  "dt": "Cycle 9 closed 17 Sep 2026, 4:30 pm ET; it covered archival data only",
-  "e": "NASA's NICER call; Cycle 9 offered funding for archival analysis and no new observations. Funding goes to US investigators.",
-  "f": "NASA NICER",
-  "fields": [
-   "astro"
-  ],
-  "n": "NICER General Observer",
-  "nom": false,
-  "pt": "other",
-  "region": "US",
-  "s": "closed",
-  "src": "other:nicer-cfp",
-  "stages": [
-   "tt",
-   "ten",
-   "pd"
-  ],
-  "u": "https://heasarc.gsfc.nasa.gov/docs/nicer/proposals/",
-  "unv": "Whether a Cycle 10 will happen",
-  "us": false,
-  "id": "nicer-go"
  },
  {
   "a": "Budget not capped; ~6 awards",
@@ -7550,9 +7385,9 @@
   "added": "2026-09-28",
   "asub": [],
   "c": "Federal grant",
-  "checked": "2026-09-29",
-  "d": "2026-09-30",
-  "dt": "Posted 2024-03-01; white paper required before full proposal; closes 2026-09-30",
+  "checked": "2026-10-03",
+  "d": "2026-12-30",
+  "dt": "Closes Dec 30, 2026 after Amendment 0008 extended white paper acceptance; white paper required before a full proposal",
   "e": "Unrestricted. NRL directorates: materials science, electromagnetics, space technology, ocean sciences, etc.",
   "f": "DOD NRL",
   "fields": [
@@ -7741,9 +7576,9 @@
   "a": "n/a",
   "added": "2026-09-28",
   "c": "Federal grant",
-  "checked": "2026-09-29",
+  "checked": "2026-10-03",
   "d": null,
-  "dt": "Paused",
+  "dt": "No open solicitation. NSF lists the program as waiting for a new publication; the last guidelines were NSF 22-632",
   "e": "Research software and data infrastructure program, currently paused. Per coordinator.",
   "f": "NSF",
   "fields": [
@@ -7753,7 +7588,7 @@
   "id": "nsf-cssi-cyberinfrastructure-for-sustained-scientific-innova",
   "n": "NSF CSSI (Cyberinfrastructure for Sustained Scientific Innovation)",
   "nom": false,
-  "s": "closed",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -8005,31 +7840,6 @@
   "us": false
  },
  {
-  "a": "n/a",
-  "added": "2026-09-29",
-  "c": "Fellowship",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "Archived",
-  "e": "Former MPS-wide postdoctoral fellowship; archived. Per coordinator.",
-  "f": "NSF MPS",
-  "fields": [
-   "all"
-  ],
-  "id": "nsf-mps-ascend-postdoctoral-fellowships",
-  "n": "NSF MPS-Ascend Postdoctoral Fellowships",
-  "nfit": "Low",
-  "nom": false,
-  "region": "US",
-  "s": "closed",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://www.nsf.gov/",
-  "unv": "Status per coordinator; not re-fetched",
-  "us": false
- },
- {
   "a": "Budgets and durations vary (26-523 total about $180M, 300 awards).",
   "added": "2026-09-28",
   "asub": [
@@ -8275,30 +8085,6 @@
   "id": "nustar-go-cycle-13"
  },
  {
-  "a": "Up to 30,000 H100 GPU-hours, RTX PRO 6000 GPUs or DGX Spark systems",
-  "added": "2026-09-28",
-  "c": "Compute",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "Not currently accepting applications",
-  "e": "Full-time faculty at PhD-granting institutions, for projects using NVIDIA software/models.",
-  "f": "NVIDIA",
-  "fields": [
-   "ds",
-   "all"
-  ],
-  "id": "nvidia-academic-grant-program",
-  "n": "NVIDIA Academic Grant Program",
-  "nom": false,
-  "s": "closed",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/",
-  "us": false
- },
- {
   "a": "usually 3 years (longer for exceptional candidates)",
   "added": "2026-09-30",
   "asub": [
@@ -8354,35 +8140,6 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/6076de03",
-  "us": false
- },
- {
-  "a": "€3,131–4,341/month; 24 months",
-  "added": "2026-09-30",
-  "asub": [
-   "cos"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
-  "e": "Recover 21-cm Epoch of Reionization signals with NenuFAR and LOFAR. Requires a PhD in astrophysics, radio astronomy, signal processing, ML or data analysis. Also on AAS (aas:7d8788c5).",
-  "f": "Observatoire de Paris / CNRS; PI Florent Mertens",
-  "fields": [
-   "astro",
-   "ds"
-  ],
-  "id": "observatoire-de-paris-21-cm-cosmology-eor-data-analysis",
-  "n": "Observatoire de Paris: 21-cm cosmology & EoR data analysis",
-  "nfit": "High",
-  "nom": false,
-  "region": "International",
-  "s": "open",
-  "src": "inspire:3199752",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://emploi.cnrs.fr/Offres/CDD/UMR8262-ELIBLA-005/Default.aspx?lang=EN",
   "us": false
  },
  {
@@ -8858,9 +8615,9 @@
   "a": "$78,000 stipend + $5,000 project expenses; 1 yr in residence",
   "added": "2026-09-28",
   "c": "Sabbatical",
-  "checked": "2026-09-29",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026, 5 pm ET",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 1, 2026 (science, engineering and math); 2028–2029 application details expected in spring 2027",
   "e": "Scientists with a strong record (typically post-tenure or senior; untenured faculty with significant publications can apply). Coordinator-verified.",
   "f": "Harvard Radcliffe Institute",
   "fields": [
@@ -8869,7 +8626,7 @@
   "id": "radcliffe-institute-fellowship",
   "n": "Radcliffe Institute Fellowship",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "tt",
    "ten"
@@ -9054,9 +8811,9 @@
    "he"
   ],
   "c": "Scholarship",
-  "checked": "2026-10-01",
-  "d": "2026-10-01",
-  "dt": "Fall cycle deadline Oct 1, 2026 (today); next spring cycle Mar 15, 2027",
+  "checked": "2026-10-03",
+  "d": "2027-03-15",
+  "dt": "Next deadline Mar 15, 2027 (spring cycle); the fall deadline is Oct 1",
   "e": "For undergraduate and graduate students (members and non-members). Small research grants for travel to observatories, equipment or data costs on pulsar/PTA projects.",
   "f": "Sigma Xi",
   "fields": [
@@ -9108,9 +8865,9 @@
    "he"
   ],
   "c": "Sabbatical",
-  "checked": "2026-09-29",
-  "d": "2026-10-01",
-  "dt": "Oct 1, 2026, noon ET",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline Oct 1, 2026; the next cycle is not posted yet",
   "e": "Tenured and leave-eligible, with a primary appointment in a MATHEMATICS department; turns a one-term sabbatical into a full year. Physics-only appointees are not eligible.",
   "f": "Simons Foundation",
   "fields": [
@@ -9121,63 +8878,11 @@
   "id": "simons-fellows-in-mathematics",
   "n": "Simons Fellows in Mathematics",
   "nom": false,
-  "s": "open",
+  "s": "watch",
   "stages": [
    "ten"
   ],
   "u": "https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/",
-  "us": false
- },
- {
-  "a": "Formerly sabbatical-extension salary support",
-  "added": "2026-09-28",
-  "asub": [
-   "he"
-  ],
-  "c": "Sabbatical",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "Discontinued",
-  "e": "Formerly for tenured theorists at US/Canadian institutions; physics sabbatical support now has to come from IAS, Radcliffe, Guggenheim or Humboldt.",
-  "f": "Simons Foundation",
-  "fields": [
-   "ppt",
-   "cmt",
-   "grav",
-   "astro",
-   "nut"
-  ],
-  "id": "simons-fellows-in-theoretical-physics-discontinued",
-  "n": "Simons Fellows in Theoretical Physics (discontinued)",
-  "nom": false,
-  "s": "closed",
-  "stages": [
-   "ten"
-  ],
-  "u": "https://www.simonsfoundation.org/grant/simons-fellows-in-theoretical-physics/",
-  "us": false
- },
- {
-  "a": "n/a",
-  "added": "2026-09-28",
-  "c": "Foundation",
-  "checked": "2026-09-29",
-  "d": null,
-  "dt": "Discontinued",
-  "e": "Program no longer running. Coordinator-verified.",
-  "f": "Simons Foundation",
-  "fields": [
-   "all"
-  ],
-  "id": "simons-investigators-discontinued",
-  "n": "Simons Investigators (discontinued)",
-  "nom": false,
-  "s": "closed",
-  "stages": [
-   "tt",
-   "ten"
-  ],
-  "u": "https://www.simonsfoundation.org/",
   "us": false
  },
  {
@@ -10024,37 +9729,6 @@
    "pd"
   ],
   "u": "https://www.ph.nat.tum.de/cosmic-particles",
-  "us": false
- },
- {
-  "a": "£36,636–46,049; 3 years",
-  "added": "2026-09-30",
-  "asub": [
-   "he",
-   "star"
-  ],
-  "c": "Group postdoc",
-  "checked": "2026-09-30",
-  "d": "2026-09-30",
-  "dt": "Sep 30, 2026 (today)",
-  "e": "PTA data analysis for resolvable binaries and anisotropic backgrounds. Also on the LIGO LAAC board.",
-  "f": "University of Birmingham, Institute for Gravitational Wave Astronomy; PI Bence Bécsy",
-  "fields": [
-   "grav",
-   "astro",
-   "ds"
-  ],
-  "id": "u-birmingham-research-fellow-in-nanohertz-gravitational-",
-  "n": "U. Birmingham: Research Fellow in nanohertz gravitational waves",
-  "nfit": "High",
-  "nom": false,
-  "region": "International",
-  "s": "open",
-  "src": "aas:d4a4b376",
-  "stages": [
-   "pd"
-  ],
-  "u": "https://aas.org/jobregister/ad/d4a4b376",
   "us": false
  },
  {
