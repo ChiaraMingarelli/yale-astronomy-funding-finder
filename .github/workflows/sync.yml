@@ -1,0 +1,78 @@
+# Copy this site's files from the shared catalog repository (ChiaraMingarelli/funding-finders,
+# folder sites/<this repo>/) and publish them. Runs every hour; publishes only when something changed.
+name: Sync from the shared catalog
+
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-pages
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.fetch.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch this site's files
+        id: fetch
+        env:
+          HUB: https://raw.githubusercontent.com/ChiaraMingarelli/funding-finders/main/sites/${{ github.event.repository.name }}
+        run: |
+          set -euo pipefail
+          curl -fsSL "$HUB/MANIFEST" -o "$RUNNER_TEMP/MANIFEST"
+          while read -r f; do
+            [ -z "$f" ] && continue
+            case "$f" in *..*|/*) echo "::error::bad path in MANIFEST: $f"; exit 1;; esac
+            mkdir -p "$(dirname "$f")"
+            curl -fsSL "$HUB/$f" -o "$RUNNER_TEMP/new"
+            mv "$RUNNER_TEMP/new" "$f"
+          done < "$RUNNER_TEMP/MANIFEST"
+          python3 - <<'PY'
+          import json, re
+          html = open("index.html", encoding="utf-8").read()
+          assert "SNAPSHOT:START" in html, "index.html has no data block"
+          n = len(json.load(open("data/programs.json", encoding="utf-8")))
+          assert n > 0, "no programs"
+          p = "README.md"
+          s = open(p, encoding="utf-8").read()
+          open(p, "w", encoding="utf-8").write(re.sub(r"(`data/programs\.json` has )\d+( programs)", rf"\g<1>{n}\g<2>", s))
+          print(n, "programs")
+          PY
+          git add -A
+          if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; else echo "changed=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Commit
+        if: steps.fetch.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync with the shared catalog"
+          git push origin HEAD:main
+
+  deploy:
+    needs: sync
+    if: needs.sync.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
