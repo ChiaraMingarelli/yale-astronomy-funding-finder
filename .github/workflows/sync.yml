@@ -24,17 +24,19 @@ jobs:
       - name: Fetch this site's files
         id: fetch
         env:
-          HUB: https://raw.githubusercontent.com/ChiaraMingarelli/funding-finders/main/sites/${{ github.event.repository.name }}
+          REPO: ${{ github.event.repository.name }}
         run: |
           set -euo pipefail
-          curl -fsSL "$HUB/MANIFEST" -o "$RUNNER_TEMP/MANIFEST"
+          git clone --quiet --depth 1 --filter=blob:none --sparse https://github.com/ChiaraMingarelli/funding-finders.git "$RUNNER_TEMP/hub"
+          git -C "$RUNNER_TEMP/hub" sparse-checkout set "sites/$REPO"
+          SRC="$RUNNER_TEMP/hub/sites/$REPO"
+          test -s "$SRC/MANIFEST"
           while read -r f; do
             [ -z "$f" ] && continue
             case "$f" in *..*|/*) echo "::error::bad path in MANIFEST: $f"; exit 1;; esac
             mkdir -p "$(dirname "$f")"
-            curl -fsSL "$HUB/$f" -o "$RUNNER_TEMP/new"
-            mv "$RUNNER_TEMP/new" "$f"
-          done < "$RUNNER_TEMP/MANIFEST"
+            cp "$SRC/$f" "$f"
+          done < "$SRC/MANIFEST"
           python3 - <<'PY'
           import json, re
           html = open("index.html", encoding="utf-8").read()
