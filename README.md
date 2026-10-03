@@ -23,4 +23,8 @@ On a self-hosted copy everything works for everyone, including:
 
 `engine/export_astro.py` builds the page's data from the shared catalog (rows tagged `ast`); `engine/astro_classify.py` assigns the eight research areas. `engine/export_mod.js` is the export and calendar-link code inlined in the page.
 
-This copy is a snapshot. The live page is rechecked every Monday, with new postings added on Wednesdays and Fridays. Deadlines move, so check the funder's page before you commit to a date.
+This copy is rebuilt from the shared catalog and pushed here automatically every day at about 1 pm Eastern. The catalog is rechecked every Monday, new postings are added on the other days of the week, and the tips are kept current daily. Deadlines move, so check the funder's page before you commit to a date.
+
+## License
+
+The code (the scripts in the page and in `engine/`) is released under the [MIT License](LICENSE). The catalog (`data/programs.json`), the data embedded in the page and the page text are released under [CC BY 4.0](LICENSE-DATA), so you can reuse them with credit to Chiara Mingarelli. Program details come from each funder's own page; check there before relying on a date.
