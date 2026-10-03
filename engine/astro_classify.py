@@ -7,7 +7,7 @@ KW={
  'he':r'x-ray|gamma[- ]ray|black hole|neutron star|pulsar|compact object|high[- ]energy astro|transient|gravitational[- ]wave|multi-?messenger|\bligo\b|\blisa\b|kilonova|supernova|\bgrb\b|accretion|time[- ]domain',
  'star':r'stellar|\bstars?\b|\bsun\b|solar|helio|asteroseism|binary star|binaries|white dwarf',
  'ism':r'star formation|interstellar|\bism\b|molecular cloud|astrochem|protostell|protoplanetary',
- 'inst':r'instrument (?:science|scientist|development|builder)|instrumentation (?:development|postdoc|fellowship)|detector|adaptive optics|telescope technolog|spectrograph|coronagraph design|integrated photonics|cryogenic|interferomet\w* (?:sensor|prototype)',
+ 'inst':r'instrument|detector|adaptive optics|telescope technolog|spectrograph',
 }
 EXCL={'yale-mossman-postdoctoral-fellowship-physics','yale-physics-graduate-honors-d-allan-bromley-graduate-fellow'}
 def classify(r):
@@ -15,9 +15,7 @@ def classify(r):
     s=[k for k,p in KW.items() if re.search(p,t)]
     f=set(r.get('fields',[]))
     if 'grav' in f and 'he' not in s: s.append('he')
-    # Instrumentation = building instruments, detectors and telescope technology. Observing time and
-    # data-analysis programs are not instrumentation, and fellowships that merely welcome
-    # "theory, observation or instrumentation" are open to every area (no asub).
+    if 'inst' in f and 'astro' in f and 'inst' not in s: s.append('inst')
     return s
 def eligible(i,r):
     if i in EXCL: return False

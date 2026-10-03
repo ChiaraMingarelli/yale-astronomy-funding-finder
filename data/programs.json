@@ -256,6 +256,7 @@
   "fields": [
    "astro"
   ],
+  "id": "alma-cycle-14",
   "n": "ALMA Cycle 14 Call for Proposals",
   "nom": false,
   "pt": "other",
@@ -270,8 +271,7 @@
   ],
   "u": "https://almascience.nrao.edu/proposing/call-for-proposals",
   "unv": "Cycle 14 release and deadline; student PI eligibility not re-checked",
-  "us": false,
-  "id": "alma-cycle-14"
+  "us": false
  },
  {
   "a": "not listed; 2 years",
@@ -2661,6 +2661,7 @@
   "fields": [
    "astro"
   ],
+  "id": "eso-fast-track-channel",
   "n": "ESO Fast Track Channel (FTC 117B)",
   "nom": false,
   "pt": "other",
@@ -2674,8 +2675,7 @@
   ],
   "u": "https://www.eso.org/sci/observing/phase1/fast-track-channel.html",
   "unv": "FTC 117B release date and deadline",
-  "us": false,
-  "id": "eso-fast-track-channel"
+  "us": false
  },
  {
   "a": "competitive; 3 years (Garching) / 4 years (Chile)",
@@ -2745,6 +2745,7 @@
   "fields": [
    "astro"
   ],
+  "id": "eso-yearly-cycle",
   "n": "ESO Call for Proposals (yearly cycle, next after P118)",
   "nom": false,
   "pt": "other",
@@ -2759,8 +2760,7 @@
   ],
   "u": "https://www.eso.org/sci/observing/phase1.html",
   "unv": "Next deadline; non-member PI rules and student PI not re-checked this cycle",
-  "us": false,
-  "id": "eso-yearly-cycle"
+  "us": false
  },
  {
   "a": "VLBI observing time on the EVN, optionally with joint e-MERLIN and global VLBI on NRAO/GBO telescopes, plus MeerKAT and GMRT at L-band. From 2027 the EVN observes in 10 one-week sessions a year. JIVE offers user support.",
@@ -2838,6 +2838,7 @@
   "fields": [
    "astro"
   ],
+  "id": "fermi-gi-cycle-20",
   "n": "Fermi Guest Investigator Cycle 20",
   "nom": false,
   "pt": "other",
@@ -2851,8 +2852,7 @@
   ],
   "u": "https://fermi.gsfc.nasa.gov/ssc/proposals/",
   "unv": "Cycle 20 dates",
-  "us": false,
-  "id": "fermi-gi-cycle-20"
+  "us": false
  },
  {
   "a": "3-year appointment, extendable up to 2 more years.",
@@ -3421,6 +3421,7 @@
   "fields": [
    "astro"
   ],
+  "id": "gemini-fast-turnaround",
   "n": "Gemini Fast Turnaround (monthly)",
   "nom": false,
   "pt": "other",
@@ -3435,8 +3436,7 @@
   ],
   "u": "https://www.gemini.edu/observing/phase-i/ft",
   "unv": "Next deadline worked out from the standing rule (last day of month)",
-  "us": false,
-  "id": "gemini-fast-turnaround"
+  "us": false
  },
  {
   "a": "Large and/or multi-semester programs (two to six semesters) on Gemini North and South. The US and Canada set aside up to 20% of their Gemini time at each telescope for these programs. Subaru Intensive Programs can also be requested through this process.",
@@ -3951,6 +3951,7 @@
   "fields": [
    "astro"
   ],
+  "id": "hst-cycle-35-go",
   "n": "HST Cycle 35 General Observer",
   "nom": false,
   "pt": "other",
@@ -3965,8 +3966,7 @@
   ],
   "u": "https://hst-docs.stsci.edu/hsp",
   "unv": "Cycle 35 dates come from the STScI newsletter, not a posted call",
-  "us": false,
-  "id": "hst-cycle-35-go"
+  "us": false
  },
  {
   "a": "Hubble time for urgent or time-critical science",
@@ -3981,6 +3981,7 @@
   "fields": [
    "astro"
   ],
+  "id": "hst-director-discretionary",
   "n": "HST Director's Discretionary Time",
   "nom": false,
   "pt": "other",
@@ -3994,8 +3995,7 @@
   ],
   "u": "https://hst-docs.stsci.edu/hsp",
   "unv": "Student PI eligibility; funding for DD programs",
-  "us": false,
-  "id": "hst-director-discretionary"
+  "us": false
  },
  {
   "a": "Prize + up to 1 yr of research stays in Germany",
@@ -4615,6 +4615,7 @@
   "fields": [
    "astro"
   ],
+  "id": "ixpe-go-cycle-5",
   "n": "IXPE GO Cycle 5",
   "nom": false,
   "pt": "other",
@@ -4628,8 +4629,7 @@
   ],
   "u": "https://heasarc.gsfc.nasa.gov/docs/ixpe/proposals/",
   "unv": "Cycle 5 timing",
-  "us": false,
-  "id": "ixpe-go-cycle-5"
+  "us": false
  },
  {
   "a": "$63,480–$75,000 starting; more for exceptional candidates",
@@ -4702,6 +4702,7 @@
   "fields": [
    "astro"
   ],
+  "id": "jwst-cycle-7-go",
   "n": "JWST General Observer (Cycle 7)",
   "nom": false,
   "pt": "other",
@@ -4716,8 +4717,7 @@
   ],
   "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies",
   "unv": "Cycle 7 dates not announced",
-  "us": false,
-  "id": "jwst-cycle-7-go"
+  "us": false
  },
  {
   "a": "3 yr + startup and travel funds",
@@ -5512,6 +5512,7 @@
   "fields": [
    "astro"
   ],
+  "id": "meerkat-open-time",
   "n": "MeerKAT Open Time Call",
   "nfit": "Medium",
   "nom": false,
@@ -5527,8 +5528,7 @@
   ],
   "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/3080126470/2026+Call+for+Proposals",
   "unv": "Next call date",
-  "us": false,
-  "id": "meerkat-open-time"
+  "us": false
  },
  {
   "a": "$95,000 stipend rising 3%/yr + $10k/yr research fund; 3 yrs",
@@ -6431,6 +6431,7 @@
   "fields": [
    "astro"
   ],
+  "id": "nasa-irtf-2027b",
   "n": "NASA IRTF Semester 2027B",
   "nom": false,
   "pt": "other",
@@ -6444,8 +6445,7 @@
   ],
   "u": "https://irtfweb.ifa.hawaii.edu/observing/callforproposals/",
   "unv": "2027B call not yet posted (the date range is the standing schedule); student PI eligibility",
-  "us": false,
-  "id": "nasa-irtf-2027b"
+  "us": false
  },
  {
   "a": "NASA's share of Keck time, for science tied to NASA missions",
@@ -6460,6 +6460,7 @@
   "fields": [
    "astro"
   ],
+  "id": "nasa-keck-2027b",
   "n": "NASA-Keck Call for Proposals 2027B",
   "nom": false,
   "pt": "other",
@@ -6473,8 +6474,7 @@
   ],
   "u": "https://nexsci.caltech.edu/missions/KeckSolicitation/",
   "unv": "2027B dates; student PI eligibility",
-  "us": false,
-  "id": "nasa-keck-2027b"
+  "us": false
  },
  {
   "a": "—",
@@ -6854,6 +6854,7 @@
   "fields": [
    "astro"
   ],
+  "id": "noirlab-2027b",
   "n": "NSF NOIRLab Semester 2027B Standard Call",
   "nom": false,
   "pt": "other",
@@ -6868,8 +6869,7 @@
   ],
   "u": "https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals",
   "unv": "2027B deadline not posted (B-semester proposals are normally due the last day of March)",
-  "us": false,
-  "id": "noirlab-2027b"
+  "us": false
  },
  {
   "a": "not listed",
@@ -6974,6 +6974,7 @@
   "fields": [
    "astro"
   ],
+  "id": "nrao-2027b",
   "n": "NRAO Semester 2027B (VLA/VLBA/GBT/HSA/GMVA)",
   "nfit": "Medium",
   "nom": false,
@@ -6989,8 +6990,7 @@
   ],
   "u": "https://science.nrao.edu/observing/call-for-proposals",
   "unv": "2027B deadline not yet posted, and the NRAO and GBO pages list different dates",
-  "us": false,
-  "id": "nrao-2027b"
+  "us": false
  },
  {
   "a": "$1,500 + certificate + NRAO colloquium invitation",
@@ -8068,6 +8068,7 @@
   "fields": [
    "astro"
   ],
+  "id": "nustar-go-cycle-13",
   "n": "NuSTAR GO Cycle 13",
   "nom": false,
   "pt": "other",
@@ -8081,8 +8082,7 @@
   ],
   "u": "https://science.nasa.gov/amendment-76-d-3-agigo-nustargeneral-observer-second-opportunity-in-roses-25/",
   "unv": "Exact submission time of day; student PI eligibility",
-  "us": false,
-  "id": "nustar-go-cycle-13"
+  "us": false
  },
  {
   "a": "usually 3 years (longer for exceptional candidates)",
@@ -9329,6 +9329,7 @@
   "fields": [
    "astro"
   ],
+  "id": "subaru-s27b-open-use",
   "n": "Subaru Open Use Semester S27B",
   "nom": false,
   "pt": "other",
@@ -9342,8 +9343,7 @@
   ],
   "u": "https://www.naoj.org/Observing/Proposals/call.html",
   "unv": "S27B dates; foreign-PI limits not checked in detail",
-  "us": false,
-  "id": "subaru-s27b-open-use"
+  "us": false
  },
  {
   "a": "not listed; 2 years",
@@ -9451,6 +9451,7 @@
   "fields": [
    "astro"
   ],
+  "id": "swift-gi-cycle-23",
   "n": "Swift Guest Investigator Cycle 23",
   "nom": false,
   "pt": "other",
@@ -9464,8 +9465,7 @@
   ],
   "u": "https://swift.gsfc.nasa.gov/proposals/",
   "unv": "Whether Cycle 23 will be solicited: NASA called off the planned commercial reboost on Aug 19, 2026, and Swift resumed operating two of its three instruments on Aug 28",
-  "us": false,
-  "id": "swift-gi-cycle-23"
+  "us": false
  },
  {
   "a": "competitive (comparable to US); flexible terms",
@@ -9599,6 +9599,7 @@
   "fields": [
    "astro"
   ],
+  "id": "tess-gi-cycle-10",
   "n": "TESS Guest Investigator Cycle 10",
   "nom": false,
   "pt": "other",
@@ -9612,8 +9613,7 @@
   ],
   "u": "https://heasarc.gsfc.nasa.gov/docs/tess/proposing.html",
   "unv": "Cycle 10 dates; ROSES-2026 not yet released",
-  "us": false,
-  "id": "tess-gi-cycle-10"
+  "us": false
  },
  {
   "a": "Varies (research costs abroad)",
@@ -10860,6 +10860,7 @@
   "fields": [
    "astro"
   ],
+  "id": "xmm-newton-ao26",
   "n": "XMM-Newton AO-26 Guest Observer",
   "nom": false,
   "pt": "other",
@@ -10873,8 +10874,7 @@
   ],
   "u": "https://www.cosmos.esa.int/web/xmm-newton/ao26",
   "unv": "Whether students can be PI not checked; NASA funding route for US PIs not checked",
-  "us": false,
-  "id": "xmm-newton-ao26"
+  "us": false
  },
  {
   "a": "XRISM Resolve/Xtend time; NASA funding for US investigators",
@@ -10889,6 +10889,7 @@
   "fields": [
    "astro"
   ],
+  "id": "xrism-go-cycle-4",
   "n": "XRISM GO Cycle 4",
   "nom": false,
   "pt": "other",
@@ -10902,8 +10903,7 @@
   ],
   "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
   "unv": "Cycle 4 dates",
-  "us": false,
-  "id": "xrism-go-cycle-4"
+  "us": false
  },
  {
   "a": "Large, multi-year legacy observing programs. About 3 Ms is available in the first year starting June 1, 2027, and programs can run up to three years (June 2027 to May 2030). Data have no exclusive-use period. NASA plans to fund US-based investigators of successful proposals; details will be announced later.",
@@ -11093,6 +11093,7 @@
   "fields": [
    "astro"
   ],
+  "id": "yale-tac-keck-palomar-2027b",
   "n": "Yale TAC Semester 2027B (Keck I/II, Palomar 200-inch)",
   "nom": false,
   "pt": "other",
@@ -11112,8 +11113,7 @@
    "d": null,
    "t": "Yale TAC call goes out each semester (27A was due Sep 11, 2026, 5 pm ET)",
    "u": "https://astronomy.yale.edu/facilities/yale-time-allocation-committee"
-  },
-  "id": "yale-tac-keck-palomar-2027b"
+  }
  },
  {
   "a": "3 yr",
