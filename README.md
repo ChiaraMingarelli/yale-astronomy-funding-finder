@@ -3,6 +3,7 @@
 Grants, fellowships, observing and computing time, postdoc postings and student programs for the eight research areas of the Yale Department of Astronomy.
 
 - **Live page (updated automatically):** https://claude.ai/artifact/RQiQz6mdBSReK9w6D6SaJg
+- **On GitHub Pages:** https://chiaramingarelli.github.io/yale-astronomy-funding-finder/
 - **This repository:** a self-contained copy you can read, download or host yourself.
 
 ## Use it
