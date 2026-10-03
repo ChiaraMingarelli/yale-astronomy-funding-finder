@@ -244,8 +244,43 @@
   "us": false
  },
  {
+  "a": "ALMA 12-m, 7-m and Total Power time; NRAO Student Observing Support for US students",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 13 closed; Cycle 13 runs 1 Oct 2026 to 30 Sep 2027; no Cycle 14 timeline posted",
+  "e": "ALMA's annual call. Open to scientists worldwide; North American PIs apply through NRAO's share.",
+  "f": "ALMA (NRAO for North America)",
+  "fields": [
+   "astro"
+  ],
+  "n": "ALMA Cycle 14 Call for Proposals",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:alma-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://almascience.nrao.edu/proposing/call-for-proposals",
+  "unv": "Cycle 14 release and deadline; student PI eligibility not re-checked",
+  "us": false,
+  "id": "alma-cycle-14"
+ },
+ {
   "a": "not listed; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star",
+   "ism"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-16",
@@ -266,12 +301,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/e7317b1f",
-  "us": false,
-  "asub": [
-   "exo",
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "Up to $50k in Claude API credits per project",
@@ -354,6 +384,9 @@
  {
   "a": "Up to $600",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Travel",
   "checked": "2026-09-29",
   "d": "2026-10-25",
@@ -374,10 +407,7 @@
    "ug"
   ],
   "u": "https://engage.aps.org/dgrav/honors/prizes-awards/travel-grants",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Honorific",
@@ -433,6 +463,10 @@
  {
   "a": "2 years, possible 3rd; salary per university matrix",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": null,
@@ -455,15 +489,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/31948",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "up to $87,035/yr + $17,000/yr research + $6,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -484,15 +518,15 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/190307",
-  "us": false,
-  "asub": [
-   "xgal",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$71,000/yr; up to 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-26",
@@ -513,15 +547,14 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/193373",
-  "us": false,
-  "asub": [
-   "exo",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$71,000/yr + $5,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -543,10 +576,7 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/193463",
-  "us": false,
-  "asub": [
-   "exo"
-  ]
+  "us": false
  },
  {
   "a": "Residency; limited financial support",
@@ -604,6 +634,9 @@
  {
   "a": "€4,552–5,758 gross/month; 3 years (2+1)",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-06",
@@ -625,14 +658,14 @@
    "pd"
   ],
   "u": "https://werkenbijastron.nl/job-offer/?o=bell-burnell-postdoctoral-fellowship-1",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "€190/week stipend + accommodation + full travel reimbursement; 10–12 weeks; 7 grants",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-10-01",
   "d": null,
@@ -655,14 +688,15 @@
   ],
   "u": "https://www.astron.nl/education/summer-research-programme/",
   "unv": "2027 dates not posted; whether US/Canadian bachelor's grads qualify is unclear",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "€4,552–5,758 gross/month + allowances; 3 years (2+1)",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-06",
@@ -683,15 +717,17 @@
    "pd"
   ],
   "u": "https://werkenbijastron.nl/job-offer/?o=postdoctoral-researcher-in-radio-stars-and-exoplanets",
-  "us": false,
-  "asub": [
-   "exo",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "~€1,900/month before tax; 1 year, extendable to 2",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-23",
@@ -713,17 +749,16 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/8b7ef074",
-  "us": false,
-  "asub": [
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$88,527 starting; 4 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-02",
@@ -745,12 +780,37 @@
    "pd"
   ],
   "u": "https://hsfoundation.tfaforms.net/f/AstronovaApplication",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "inst"
-  ]
+  "us": false
+ },
+ {
+  "a": "Time on ASKAP, ATCA, Murriyang (Parkes), Tidbinbilla 70-m/34-m and the Long Baseline Array (as offered for 2026OCT), through OPAL with dual-anonymous review.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "The 2026OCT deadline was 07:00 UT, 16 June 2026. ATNF's guide (dates approximate): APR-semester proposals open mid-November, deadline mid-December, observations start 1 April.",
+  "e": "CSIRO runs its radio telescopes as national facilities and allocates time 'to astronomers around the world on scientific merit', in two semesters a year.",
+  "f": "CSIRO Australia Telescope National Facility",
+  "fields": [
+   "astro"
+  ],
+  "id": "atnf-2027apr-semester",
+  "n": "ATNF Call for Proposals, 2027APR semester (ASKAP, ATCA, Murriyang/Parkes, LBA)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:atnf-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.atnf.csiro.au/facilities/apply-for-time/",
+  "unv": "The exact 2027APR deadline is not yet announced, and the dates on the page are approximate. Grad-student PI status was not checked.",
+  "us": false
  },
  {
   "a": "AWS promotional credits (students max $5,000; no stated cap for faculty/staff)",
@@ -868,6 +928,9 @@
  {
   "a": "US site 2026: $12,538 (travel reimbursed)",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-10-01",
   "d": null,
@@ -890,14 +953,14 @@
   ],
   "u": "http://seti.berkeley.edu/Internship.html",
   "unv": "2027 details pending",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Stipend + research funds, up to 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-05",
@@ -917,14 +980,14 @@
    "pd"
   ],
   "u": "https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "$88k + $10k/yr research, 3–4 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-15",
@@ -948,14 +1011,43 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32276",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
+ },
+ {
+  "a": "Nights on the Calar Alto 2.2-m and 3.5-m telescopes in visitor or service mode for semester 27A. Typically up to 5% of the open time may go to non-partner PIs. No funding.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-10-14",
+  "dt": "Deadline 14 Oct 2026, 14:00:00 UT; submissions accepted from 16 Sep 2026. Observing period 1 Jan to 30 Jun 2027.",
+  "e": "Open call for the two main Calar Alto telescopes in Spain. Open time is mainly for Spain-based PIs. PIs at non-Spanish institutions may apply, but get time only if the CAHA TAC rates them extremely well, and they must justify having no access to a similar instrument at their own facilities.",
+  "f": "CAHA (Centro Astronómico Hispano en Andalucía; CSIC / Junta de Andalucía)",
+  "fields": [
+   "astro"
+  ],
+  "id": "caha-calar-alto-27a",
+  "n": "Calar Alto Observatory 2.2-m and 3.5-m Call for Proposals, Semester 27A",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:caha-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.caha.es/APPS/CfP/public/CfP27A.pdf",
+  "us": false
  },
  {
   "a": "$88,000 first year + $10,000/yr research fund; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -984,15 +1076,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32275",
-  "us": false,
-  "asub": [
-   "inst",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$75,268–85,000/yr; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-30",
@@ -1014,15 +1106,15 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/9bd32e66",
-  "us": false,
-  "asub": [
-   "cos",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "$76,000-$80,000; 2 years + expected 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -1045,15 +1137,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32787",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$75,268/yr; 2 years, renewable for a third",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "xgal"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-01",
   "d": "2027-01-08",
@@ -1075,15 +1167,15 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/ff862c4f",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal"
-  ]
+  "us": false
  },
  {
   "a": "$76,000–82,000/yr",
   "added": "2026-09-30",
+  "asub": [
+   "galac",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-10",
@@ -1104,15 +1196,15 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/9677d2aa",
-  "us": false,
-  "asub": [
-   "galac",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$76,000-$82,000; 2 years, renewable for a 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "galac",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-10",
@@ -1133,15 +1225,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32426",
-  "us": false,
-  "asub": [
-   "galac",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$75,268–85,000; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-04",
@@ -1162,15 +1254,12 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/ca443bb1",
-  "us": false,
-  "asub": [
-   "xgal",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "£37,694–46,049 (RA) or £47,389–59,966 (Senior) + £10k/yr; 3 years",
   "added": "2026-09-30",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -1191,12 +1280,15 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/8c7f51df",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "About 13,000 PLN gross/month; up to 30 months",
   "added": "2026-10-02",
+  "asub": [
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-11-15",
@@ -1219,15 +1311,14 @@
    "pd"
   ],
   "u": "https://camk.edu.pl/pl/archiwum/2026/09/09/postdoctoral-position-in-multimessenger-astrophysics-and-stellar-evolution-near-massive-black-holes/",
-  "us": false,
-  "asub": [
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "not listed; up to 36 months",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-18",
@@ -1248,10 +1339,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/25009d1a",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "See funder",
@@ -1281,6 +1369,11 @@
  {
   "a": "$78,280; 1 year, renewable up to 3",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star",
+   "ism"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -1301,16 +1394,12 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/189651",
-  "us": false,
-  "asub": [
-   "exo",
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "$87,500/yr + ~$12,000/yr research; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-02",
@@ -1332,12 +1421,18 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/192639",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "$87,500; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-30",
@@ -1358,18 +1453,14 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/192644",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": null,
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Prize",
   "checked": "2026-10-01",
   "d": null,
@@ -1393,14 +1484,14 @@
   ],
   "u": "https://www.casca.ca/awards",
   "unv": "Eligibility, nomination deadline and prize not retrievable from CASCA site; Canadian-university requirement assumed, not verified",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "CNY 250,000 + X (negotiable) before tax; 1+1 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-31",
@@ -1427,14 +1518,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32628",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "two 3-year and one 2-year position (possibly a 4th 2-year)",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-18",
@@ -1456,14 +1547,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32841",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "About EUR 42,695 gross/yr; 48 months; 4 fellowships",
   "added": "2026-10-02",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-02",
   "d": "2026-11-15",
@@ -1485,10 +1576,7 @@
    "pd"
   ],
   "u": "https://jtrain.cefca.es/",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "2 years, typically extended to 3 (total CERN fellowship time at most 3 years). Research-fellow stipend 7,004-7,425 CHF per month net.",
@@ -1520,6 +1608,7 @@
  {
   "a": "$84,600/yr + COLA + $18,000/yr research budget; 3 years",
   "added": "2026-09-30",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -1541,12 +1630,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32461",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "$87,500/yr + COLA + $18,000/yr research budget; 4 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -1568,14 +1659,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32462",
-  "us": false,
-  "asub": [
-   "exo"
-  ]
+  "us": false
  },
  {
   "a": "not listed; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-04",
@@ -1598,14 +1689,14 @@
    "pd"
   ],
   "u": "https://academicpositions.harvard.edu/postings/16785",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Observing time + funds",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Observing time",
   "checked": "2026-09-29",
   "d": null,
@@ -1628,10 +1719,7 @@
   ],
   "u": "https://cxc.harvard.edu/proposer/",
   "unv": "Cycle 29 dates",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Up to €1,850/mo + airfare, 4+ mo in France",
@@ -1691,6 +1779,9 @@
  {
   "a": "$85k–90k + $16k/yr research, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-16",
@@ -1711,14 +1802,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32506",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$6,300 + housing + travel",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-09-29",
   "d": null,
@@ -1740,14 +1831,14 @@
   ],
   "u": "https://sites.northwestern.edu/cierareu/application",
   "unv": "2027 date",
-  "us": true,
-  "asub": [
-   "he"
-  ]
+  "us": true
  },
  {
   "a": "C$81.5k (National varies by host), 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-02",
@@ -1768,14 +1859,15 @@
    "pd"
   ],
   "u": "https://www.cita.utoronto.ca/opportunities/post-docs/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "CNRS salary scale; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-20",
@@ -1796,15 +1888,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32772",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal"
-  ]
+  "us": false
  },
  {
   "a": "USMB salary scale; one 2-year and one 3-year position",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-20",
@@ -1826,15 +1918,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32695",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Free; some travel funding for those in need",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Training",
   "checked": "2026-10-01",
   "d": null,
@@ -1860,14 +1951,14 @@
   ],
   "u": "https://semaphorep.github.io/codeastro/",
   "unv": "Whether held annually not stated",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "1 year, extendible up to 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -1890,14 +1981,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32792",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -1919,15 +2011,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32776",
-  "us": false,
-  "asub": [
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "up to 4 years (3+1)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -1949,15 +2041,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32641",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$7,000 for 10 weeks + $1,250 housing/meals + up to $800 travel + $1,000 conference",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-10-01",
   "d": null,
@@ -1980,10 +2071,7 @@
   ],
   "u": "https://astro.cornell.edu/undergraduate-research",
   "unv": "2027 deadline not posted",
-  "us": true,
-  "asub": [
-   "he"
-  ]
+  "us": true
  },
  {
   "a": "—",
@@ -2037,6 +2125,9 @@
  {
   "a": "US students: €992/month; Canadian students: CAD $7,000 (via Mitacs); ~3 months",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-10-01",
   "d": null,
@@ -2059,10 +2150,7 @@
   ],
   "u": "https://www.daad.de/rise/en/rise-germany/find-an-internship/what-applicants-need-to-know/",
   "unv": "2027 application window not yet posted (expected similar Oct–Nov timing, unconfirmed)",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed",
@@ -2237,6 +2325,7 @@
  {
   "a": "Project periods of 6 months to 5 years; three years is typical. Ask the program manager before requesting more than three years.",
   "added": "2026-09-28",
+  "asub": [],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -2267,8 +2356,7 @@
   ],
   "u": "https://science.osti.gov/hep/Funding-Opportunities",
   "unv": "FY2028 comparative review dates not yet posted",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "~$875,000 over 5 yrs (university PIs)",
@@ -2383,6 +2471,9 @@
  {
   "a": "TV-L pay scale; 2 years with possible 2-year extension",
   "added": "2026-10-02",
+  "asub": [
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-11-15",
@@ -2404,14 +2495,14 @@
    "pd"
   ],
   "u": "https://www.uni-due.de/karriere/stelle.php?kennziffer=461-26",
-  "us": false,
-  "asub": [
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "CAD 74,922/yr + CAD 10,000/yr research allowance; 2 years, extendable subject to funding",
   "added": "2026-10-02",
+  "asub": [
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-10-29",
@@ -2435,14 +2526,14 @@
   ],
   "u": "https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_OGS2026",
   "unv": "PhD-date window assumed to match the sister photonics posting; not confirmed on this ad",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "CAD 74,922/yr + CAD 10,000/yr research allowance; 2 years, extendable subject to funding",
   "added": "2026-10-02",
+  "asub": [
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-10-29",
@@ -2465,10 +2556,37 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/UofT/Dunlap/PDF_AOS2026",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
+ },
+ {
+  "a": "Observing time on the e-MERLIN radio interferometer (L, C and K bands; 12-150 mas resolution) for Cycle 23, submitted through the Polaris proposal tool from 1 Oct 2026. Lovell telescope availability is limited this cycle. Joint EVN+e-MERLIN observations go through the EVN call. No funding.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-10-22",
+  "dt": "Deadline 13:59:59 UT on 22 Oct 2026. Observations 1 Feb to 31 Jul 2027.",
+  "e": "The UK's national radio interferometer facility. It requests proposals from the international astronomical community; the e-MERLIN TAC reviews them under STFC rules, on scientific merit and technical feasibility alone. Proposals must follow dual-anonymous guidelines, and projects that include researchers affiliated with Russian institutes are not accepted.",
+  "f": "e-MERLIN / Jodrell Bank Observatory (University of Manchester; STFC)",
+  "fields": [
+   "astro"
+  ],
+  "id": "e-merlin-cycle-23",
+  "n": "e-MERLIN Cycle 23 Call for Proposals",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:emerlin-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.e-merlin.ac.uk/tools/e-MERLIN_Cycle_23_CfP.pdf",
+  "unv": "Grad-student PI status is not stated in the call.",
+  "us": false
  },
  {
   "a": "US$5,000/month + ~US$20,000/yr research; 3 years + 2",
@@ -2496,8 +2614,41 @@
   "us": false
  },
  {
+  "a": "Observing time on the 100-m Effelsberg radio telescope, judged by the Effelsberg Program Committee on scientific merit and feasibility, and submitted through NorthStar. MPIfR offers support with preparation, observing and data analysis.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline 1 Sep 2026, 15:00 UT. The September 2026 Effelsberg Newsletter says 'The following deadline will be on March 1st, 2027.' ToO/DDT requests are possible at any time.",
+  "e": "MPIfR's regular call for the Effelsberg 100-m single dish. 'Access to the telescope is open to all qualified astronomers', and use by scientists from outside MPIfR is encouraged.",
+  "f": "Max Planck Institute for Radio Astronomy (MPIfR)",
+  "fields": [
+   "astro"
+  ],
+  "id": "effelsberg-100m-march-2027",
+  "n": "Effelsberg 100-m Radio Telescope Call for Proposals (1 March 2027 deadline)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:effelsberg-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.mpifr-bonn.mpg.de/9468614/eff-news-autumn2026.pdf",
+  "unv": "The March 2027 call text is not yet released; the date is from the September 2026 newsletter. MPIfR's general astronomers page still lists an older schedule of three deadlines a year (1 Feb, 1 Jun, 1 Oct), which conflicts with the newsletter. Grad-student PI status was not checked.",
+  "us": false
+ },
+ {
   "a": "competitive salary; 2 years, usually extended to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-08",
@@ -2521,10 +2672,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32283",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "See host institution",
@@ -2551,6 +2699,35 @@
   "u": "https://www.schmidtsciences.org/ai-in-science/",
   "unv": "Partner list and deadlines not on page",
   "us": false
+ },
+ {
+  "a": "Small, quick-turnaround programs on ESO telescopes",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Closed; ESO says FTC 117B will be released in late 2026",
+  "e": "ESO's quick channel for small programs, with staggered deadlines. Open to scientists worldwide.",
+  "f": "European Southern Observatory",
+  "fields": [
+   "astro"
+  ],
+  "n": "ESO Fast Track Channel (FTC 117B)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:eso-ftc-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.eso.org/sci/observing/phase1/fast-track-channel.html",
+  "unv": "FTC 117B release date and deadline",
+  "us": false,
+  "id": "eso-fast-track-channel"
  },
  {
   "a": "competitive; 3 years (Garching) / 4 years (Chile)",
@@ -2580,6 +2757,9 @@
  {
   "a": null,
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": "2026-10-20",
@@ -2602,14 +2782,134 @@
   ],
   "u": "https://www.eso.org/sci/activities/fellowships-and-studentships/FeSt-overview/ESOstudentship.html",
   "unv": "Stipend amount not stated",
+  "us": false
+ },
+ {
+  "a": "VLT/VLTI, La Silla and APEX time",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "P118 closed 22 Sep 2026, 12:00 CEST; ESO says the next call will be released in July 2027",
+  "e": "ESO's once-a-year call. Open to scientists worldwide, but non-member-state PIs face extra scrutiny and limited time.",
+  "f": "European Southern Observatory",
+  "fields": [
+   "astro"
+  ],
+  "n": "ESO Call for Proposals (yearly cycle, next after P118)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:eso-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.eso.org/sci/observing/phase1.html",
+  "unv": "Next deadline; non-member PI rules and student PI not re-checked this cycle",
   "us": false,
+  "id": "eso-yearly-cycle"
+ },
+ {
+  "a": "VLBI observing time on the EVN, optionally with joint e-MERLIN and global VLBI on NRAO/GBO telescopes, plus MeerKAT and GMRT at L-band. From 2027 the EVN observes in 10 one-week sessions a year. JIVE offers user support.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Last deadline 1 Oct 2026, 16:00 UTC. From 2027 the EVN moves to two calls a year with deadlines on 1 April and 1 October, so the next regular deadline is 1 April 2027. ToO and short requests may be sent at any time.",
+  "e": "Open call from an international VLBI consortium. 'The EVN facility is open to all astronomers', except that PIs and co-Is at institutes in Russia or Belarus are currently barred. Student proposals are encouraged.",
+  "f": "European VLBI Network / JIVE",
+  "fields": [
+   "astro"
+  ],
+  "id": "evn-call-april-2027",
+  "n": "European VLBI Network (EVN) Call for Proposals, 1 April 2027 deadline",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:evn-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.evlbi.org/sites/default/files/shared/EVNCfP.pdf",
+  "unv": "The April 2027 call document is not yet released; the date comes from the stated new fixed schedule.",
+  "us": false
+ },
+ {
+  "a": "About 2400 hours on the 500-m FAST telescope (19-beam receiver) across Regular Science Programs (up to 50 h each) and Medium-Sized Programs (50-150 h). MSPs are open only to PIs at Chinese institutions.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "The 2026 call was posted 31 Dec 2025 with a deadline of 16:00 UT, 31 Mar 2026, extended to 16:00 UT, 7 Apr 2026, for observations Aug 2026 to Jul 2027. The next call is not posted.",
+  "e": "Yearly call for China's FAST radio telescope. Users of any nationality or affiliation may submit Regular Science Program proposals; Medium-Sized Program PIs must be at an institution in China.",
+  "f": "National Astronomical Observatories, Chinese Academy of Sciences (FAST)",
+  "fields": [
+   "astro"
+  ],
+  "id": "fast-open-time-2027",
+  "n": "FAST Science Observing Proposals Call (next yearly call)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:fast-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://fast.bao.ac.cn/cms/article/2006192136192610305/",
+  "unv": "Timing of the next call is not posted (the page renders with JavaScript and was read in a browser). Grad-student PI status was not checked. US federal funding rules on work with Chinese institutions were not checked.",
+  "us": false
+ },
+ {
+  "a": "Mostly funding for Fermi data analysis; some pointed and joint observations",
+  "added": "2026-10-03",
   "asub": [
    "he"
-  ]
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 20 not posted; Cycle 19 Phase-1 closed 29 Jan 2026",
+  "e": "NASA's yearly Fermi program, mostly for analysis of gamma-ray data. Open to all; NASA funding goes only to US investigators.",
+  "f": "NASA Fermi",
+  "fields": [
+   "astro"
+  ],
+  "n": "Fermi Guest Investigator Cycle 20",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:fermi-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://fermi.gsfc.nasa.gov/ssc/proposals/",
+  "unv": "Cycle 20 dates",
+  "us": false,
+  "id": "fermi-gi-cycle-20"
  },
  {
   "a": "3-year appointment, extendable up to 2 more years.",
   "added": "2026-09-29",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": null,
@@ -2633,12 +2933,14 @@
   ],
   "u": "https://www.fnal.gov/pub/forphysicists/fellowships/leon_lederman/index.html",
   "unv": "2027 cycle deadline not posted (a fall 2026 call is likely)",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "Postdoc appointment; terms not verified.",
   "added": "2026-09-29",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": null,
@@ -2661,14 +2963,18 @@
   ],
   "u": "https://theory.fnal.gov/",
   "unv": "2026 call not yet posted; deadline taken from an INSPIRE listing",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "about EUR 3,500-3,900/month; 3-year fixed term",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": "2026-10-30",
@@ -2690,18 +2996,14 @@
    "pd"
   ],
   "u": "https://ats.talentadore.com/apply/1-2-tutkijatohtorin-maaraaikaista-tehtavaa-suomen-eso-keskuksella/ZAYvbj?lang=en",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$65,000/yr; 3 years, non-extendable",
   "added": "2026-10-02",
+  "asub": [
+   "exo"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-02",
   "d": "2027-01-01",
@@ -2724,10 +3026,7 @@
   ],
   "u": "https://mtholyoke.wd504.myworkdayjobs.com/External/job/Mount-Holyoke-College---Main-Campus/Five-College-Astronomy-Department-Fellow_R-0000003668",
   "unv": "Whether the fellow sets an independent research program or works in a host group is not fully clear from the ad",
-  "us": true,
-  "asub": [
-   "exo"
-  ]
+  "us": true
  },
  {
   "a": "$95,000/yr; 2 years, renewable up to 3 more",
@@ -2758,6 +3057,9 @@
  {
   "a": "$95k, 2+1 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-10-31",
@@ -2779,10 +3081,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32794",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$2,000 for graduate students; $3,000 for postdocs",
@@ -2811,6 +3110,9 @@
  {
   "a": "Master's up to $40,000; doctoral up to $100,000; postdoc up to $35,000 (1 yr); short-term research up to $12,000 (4 months)",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Scholarship",
   "checked": "2026-10-01",
   "d": "2026-12-02",
@@ -2834,14 +3136,14 @@
    "pd"
   ],
   "u": "https://frq.gouv.qc.ca/programme/bourses-dexcellence-pour-etudiantes-etrangeres-et-etudiants-etrangers-pbeee-2027-2028/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$45,000/yr for 6 months–2 years; +$10,000/yr if held outside Québec",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": "2026-10-08",
@@ -2865,14 +3167,17 @@
   ],
   "u": "https://frq.gouv.qc.ca/programme/bourses-postdoctorales-2027-2028-b3/",
   "unv": "Summary page wording on non-citizens is ambiguous; check program rules",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "competitive; 2 years, extendable to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-30",
@@ -2893,13 +3198,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/2f04eb74",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Varies by country/award",
@@ -3132,6 +3431,9 @@
  {
   "a": "Free",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Training",
   "checked": "2026-10-01",
   "d": "2026-10-02",
@@ -3156,10 +3458,66 @@
   ],
   "u": "https://greenbankobservatory.org/events/oct-2026-gbt-training-workshop/",
   "unv": "Student eligibility not explicitly stated",
+  "us": false
+ },
+ {
+  "a": "Short queue programs on Gemini North and South, carried out 1 to 4 months after the deadline",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-10-31",
+  "dt": "Monthly, due on the last day of each month at noon HST; next one is 31 Oct 2026",
+  "e": "A monthly call for short Gemini programs, reviewed by the other proposers. Open to researchers at Gemini participant institutions, which include US institutions; a graduate student may be PI with a PhD co-I as mentor.",
+  "f": "International Gemini Observatory",
+  "fields": [
+   "astro"
+  ],
+  "n": "Gemini Fast Turnaround (monthly)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:gemini-ft-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://www.gemini.edu/observing/phase-i/ft",
+  "unv": "Next deadline worked out from the standing rule (last day of month)",
   "us": false,
-  "asub": [
-   "he"
-  ]
+  "id": "gemini-fast-turnaround"
+ },
+ {
+  "a": "Large and/or multi-semester programs (two to six semesters) on Gemini North and South. The US and Canada set aside up to 20% of their Gemini time at each telescope for these programs. Subaru Intensive Programs can also be requested through this process.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "In the 2026 cycle, letters of intent were due Feb 16, 2026 (5 pm HST) and proposals Mar 31, 2026 (11:59 pm HST). Gemini says the letter-of-intent call is issued in December, letters are typically due in early February, and proposals around April 1.",
+  "e": "An annual call for large or multi-semester Gemini programs. It requires a letter of intent, a management plan and a data-release plan. The PI must be based at an institution in a participating partner country (currently the US and Canada); co-Is are unrestricted.",
+  "f": "NSF NOIRLab / International Gemini Observatory",
+  "fields": [
+   "astro"
+  ],
+  "id": "gemini-large-long-programs-2027",
+  "n": "Gemini Observatory Large and Long Programs, 2027 cycle",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:gemini-llp-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.gemini.edu/observing/phase-i/llp",
+  "unv": "The 2027 LLP call has not been issued, so the 2027 dates are unconfirmed. The page does not say whether postdocs or graduate students may be PI. The row lists tt, ten and pd because the only PI rule given is about the institution.",
+  "us": false
  },
  {
   "a": "Scholarship for tuition/fees/books (up to 2 yrs)",
@@ -3293,6 +3651,9 @@
  {
   "a": "Free",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Training",
   "checked": "2026-10-01",
   "d": null,
@@ -3318,14 +3679,14 @@
   ],
   "u": "https://gwosc.org/news/open-data-workshop-2026/",
   "unv": "Frequency and 2027 dates not stated",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$1,000",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Prize",
   "checked": "2026-09-29",
   "d": null,
@@ -3347,14 +3708,15 @@
   ],
   "u": "https://gwic.science/thesis-prize.html",
   "unv": "2027 date",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "TV-L E13, 100%; 3-year fixed term",
   "added": "2026-10-02",
+  "asub": [
+   "inst",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-10-11",
@@ -3377,15 +3739,14 @@
    "pd"
   ],
   "u": "https://www.uni-hannover.de/en/jobs/id/8702/",
-  "us": false,
-  "asub": [
-   "inst",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-11",
@@ -3408,14 +3769,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32741",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-16",
@@ -3437,14 +3798,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32754",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$73,000–76,000; 1 year, extendable 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "star",
+   "ism"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -3465,15 +3827,14 @@
    "pd"
   ],
   "u": "https://academicpositions.harvard.edu/postings/16798",
-  "us": false,
-  "asub": [
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "$87.5k–89.5k, 1 yr renewable to 3",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-01",
@@ -3494,10 +3855,7 @@
    "pd"
   ],
   "u": "https://academicpositions.harvard.edu/postings/16741",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Salary from $89,999 plus own lab, start-up and $225,000/yr operating budget; up to 5 years",
@@ -3554,6 +3912,9 @@
  {
   "a": "Conference/workshop support",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Foundation",
   "checked": "2026-09-29",
   "d": "2027-07-01",
@@ -3576,10 +3937,7 @@
    "ten"
   ],
   "u": "https://www.hsfoundation.org/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Up to 5 yrs of stipend + tuition equivalent (valued up to $250k)",
@@ -3631,6 +3989,65 @@
   ],
   "u": "https://aas.org/jobregister/ad/09fe3cd2",
   "us": false
+ },
+ {
+  "a": "Hubble orbits; NASA grant funding for US-based investigators",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 35 call not posted yet; STScI's July 2026 newsletter says it will be released Dec 16, 2026, with proposals due Apr 1, 2027. Cycle 34 closed 16 Apr 2026, 8 pm EDT",
+  "e": "Hubble's annual call for observing and archival proposals. Open to scientists worldwide at any career stage, including students; funding goes only to US institutions.",
+  "f": "STScI / NASA",
+  "fields": [
+   "astro"
+  ],
+  "n": "HST Cycle 35 General Observer",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:hst-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://hst-docs.stsci.edu/hsp",
+  "unv": "Cycle 35 dates come from the STScI newsletter, not a posted call",
+  "us": false,
+  "id": "hst-cycle-35-go"
+ },
+ {
+  "a": "Hubble time for urgent or time-critical science",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Always open, no fixed deadline",
+  "e": "Hubble's always-open channel for urgent or unexpected science that can't wait for the annual cycle. Open to scientists worldwide.",
+  "f": "STScI / NASA",
+  "fields": [
+   "astro"
+  ],
+  "n": "HST Director's Discretionary Time",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "rolling",
+  "src": "other:hst-dd-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://hst-docs.stsci.edu/hsp",
+  "unv": "Student PI eligibility; funding for DD programs",
+  "us": false,
+  "id": "hst-director-discretionary"
  },
  {
   "a": "Prize + up to 1 yr of research stays in Germany",
@@ -3706,6 +4123,10 @@
  {
   "a": "R$12,570/month; 1 year, renewable",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-09-30",
@@ -3726,15 +4147,14 @@
    "pd"
   ],
   "u": "http://www.iag.usp.br",
-  "us": false,
-  "asub": [
-   "he",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "$71k–90k, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-10-07",
@@ -3759,14 +4179,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/MIT/IAIFI/FELLOW",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Stipend + housing eligibility; sabbatical stipends vary",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
   "d": "2026-11-15",
@@ -3792,14 +4212,15 @@
    "ten"
   ],
   "u": "https://www.ias.edu/sns/apply",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "~320,000 CNY/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-31",
@@ -3821,15 +4242,14 @@
    "pd"
   ],
   "u": "https://ictp-ap.org/form/92",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Five-year Ramón y Cajal fellowship on tenure-track trajectory toward permanent faculty; salary not listed",
   "added": "2026-10-02",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-02",
   "d": "2026-10-16",
@@ -3855,14 +4275,14 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3207363",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2027-03-19",
@@ -3885,10 +4305,7 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3131172",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "competitive; not specified",
@@ -3919,6 +4336,9 @@
  {
   "a": "CNY 300,000-500,000/yr before tax; 2 years + 1-2 renewal",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": null,
@@ -3941,10 +4361,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/29978",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed; 3 years",
@@ -3977,6 +4394,10 @@
  {
   "a": "About 25 funded PhD positions (fellowship or contract)",
   "added": "2026-10-01",
+  "asub": [
+   "star",
+   "he"
+  ],
   "c": "Training",
   "checked": "2026-10-01",
   "d": "2026-11-01",
@@ -4000,15 +4421,14 @@
   ],
   "u": "https://www.imprs-astro.mpg.de/",
   "unv": "Exact degree requirements and stipend are on the program's admission and finances pages, not checked.",
-  "us": false,
-  "asub": [
-   "star",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "3-year funded PhD research contracts with benefits + conference/training support",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Graduate program",
   "checked": "2026-10-01",
   "d": "2026-10-30",
@@ -4030,14 +4450,14 @@
    "gr"
   ],
   "u": "https://blog.mpifr-bonn.mpg.de/imprs/for-applicants/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Fully funded PhD positions, no tuition; 3–4 years",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Graduate program",
   "checked": "2026-10-01",
   "d": null,
@@ -4060,10 +4480,36 @@
   ],
   "u": "https://imprs.aei.mpg.de/applications",
   "unv": "2026–27 Potsdam call not yet posted on AEI jobs page",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
+ },
+ {
+  "a": "INAF-TAC allocates about 1000 hours of queue observations on REM. REM is a robotic 60-cm telescope at ESO La Silla that images simultaneously in optical (g, r, i, z) and near-IR.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "AOT54 (2026B) deadline was Monday 25 May 2026, 12:00 UT, for observations 1 Oct 2026 to 31 Mar 2027. The next AOT call is not yet posted.",
+  "e": "INAF's semester call covers both the TNG and REM telescopes. TNG time is limited to Italian-led proposals (or HARPS-N Collaboration members for exoplanet work), but the nationality restriction does not apply to REM proposals.",
+  "f": "INAF / Fundación Galileo Galilei (TNG)",
+  "fields": [
+   "astro"
+  ],
+  "id": "inaf-rem-60cm-aot-call",
+  "n": "INAF TNG/REM Call for Proposals (REM 60-cm robotic telescope at La Silla)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:rem-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.tng.iac.es/news/2026/04/23/aot54/",
+  "unv": "Timing of the next call (AOT55) is not posted.",
+  "us": false
  },
  {
   "a": "$87,000 to $91,000/yr (incl. health insurance)",
@@ -4097,6 +4543,9 @@
  {
   "a": "Free registration in 2026",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Training",
   "checked": "2026-09-29",
   "d": null,
@@ -4118,10 +4567,36 @@
    "ug"
   ],
   "u": "https://ipta4gw.org/meetings/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
+ },
+ {
+  "a": "Observing time on the NOEMA interferometer and the IRAM 30-m telescope for the summer scheduling period (1 Jun - 30 Nov). PIs at institutes outside IRAM partner countries compete for a reserved share: 7.5% of NOEMA time and 15% of 30-m time.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "The winter 2026 deadline was 10 Sep 2026, 17:00 CEST. IRAM deadlines fall around mid-March and mid-September, and the summer-semester call is published by early February.",
+  "e": "Twice-yearly call for IRAM's millimeter telescopes in France and Spain. PIs at institutes in non-partner countries, including the US, may submit regular proposals but may not lead Large Programs.",
+  "f": "IRAM (Institut de Radioastronomie Millimétrique)",
+  "fields": [
+   "astro"
+  ],
+  "id": "iram-noema-30m-summer-2027",
+  "n": "IRAM NOEMA and 30-meter Telescope Call for Proposals, Summer Semester 2027",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:iram-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://iram-institute.org/science-portal/proposals/call-for-proposals/",
+  "unv": "The summer 2027 call and its exact deadline are not yet posted. Student-PI rules are not stated.",
+  "us": false
  },
  {
   "a": "not listed; 2 years, extendable",
@@ -4151,6 +4626,10 @@
  {
   "a": "not listed; 2 years, extensible to 3",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-04",
@@ -4171,15 +4650,14 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/1fa6ba25",
-  "us": false,
-  "asub": [
-   "exo",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "min €76,986 gross/yr + €25,000/yr research; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -4200,14 +4678,45 @@
    "pd"
   ],
   "u": "https://ista.ac.at/en/education/postdocs/sirius-fellowship",
-  "us": false,
+  "us": false
+ },
+ {
+  "a": "About 11 Ms per cycle (Cycle 4); joint XMM-Newton time; NASA funding for US investigators",
+  "added": "2026-10-03",
   "asub": [
-   "cos"
-  ]
+   "he"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 4 closed 17 Sep 2026, 4:30 pm EDT; Cycle 5 not posted",
+  "e": "NASA's call for X-ray polarimetry observations with IXPE. Open to all; NASA funding goes only to US investigators.",
+  "f": "NASA IXPE",
+  "fields": [
+   "astro"
+  ],
+  "n": "IXPE GO Cycle 5",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:ixpe-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/ixpe/proposals/",
+  "unv": "Cycle 5 timing",
+  "us": false,
+  "id": "ixpe-go-cycle-5"
  },
  {
   "a": "$63,480–$75,000 starting; more for exceptional candidates",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-01",
@@ -4229,14 +4738,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32881",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$83,820/yr; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-09",
@@ -4258,10 +4767,37 @@
    "pd"
   ],
   "u": "https://www.jpl.jobs/job/R5931/Postdoc-JWST-High-Contrast-Imaging-Data-Analysis",
+  "us": false
+ },
+ {
+  "a": "JWST observing time; NASA funding for US-based investigators",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 6 closed 1 Oct 2026, 5 pm ET (extended from 30 Sep after an APT outage); Cycle 7 timeline not posted",
+  "e": "Webb's annual call for observing and archival proposals. Open to scientists worldwide, including student and postdoc PIs (US students and postdocs may need an administrative PI); funding goes only to US institutions.",
+  "f": "STScI / NASA",
+  "fields": [
+   "astro"
+  ],
+  "n": "JWST General Observer (Cycle 7)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:jwst-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://jwst-docs.stsci.edu/jwst-opportunities-and-policies",
+  "unv": "Cycle 7 dates not announced",
   "us": false,
-  "asub": [
-   "exo"
-  ]
+  "id": "jwst-cycle-7-go"
  },
  {
   "a": "3 yr + startup and travel funds",
@@ -4291,6 +4827,11 @@
  {
   "a": "up to 3 years (annual contracts)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he",
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-09-30",
@@ -4314,12 +4855,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32184",
-  "us": false,
-  "asub": [
-   "cos",
-   "he",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "$76k–80k, up to 3 yr",
@@ -4375,6 +4911,9 @@
  {
   "a": "4–5 scholars/yr; salary not listed",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-15",
@@ -4401,14 +4940,14 @@
    "pd"
   ],
   "u": "https://www.kitp.ucsb.edu/apply/fellowships/postdoctoral-scholars-theoretical-physics",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "KITP hosts the program and supports participants' local costs",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-09-29",
   "d": null,
@@ -4435,10 +4974,7 @@
   ],
   "u": "https://www.kitp.ucsb.edu/propose-activity/program-pre-proposals",
   "unv": "2026 call deadline not posted",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Up to 3 yrs of full funding for Stanford graduate study",
@@ -4473,6 +5009,9 @@
  {
   "a": "~KRW 50,000,000/yr; 2 years, renewable",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-09-30",
@@ -4494,14 +5033,14 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3198255",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "$9,000–$17,000 fellowship by academic rank; participants pay own travel/housing",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-10-01",
   "d": null,
@@ -4525,14 +5064,16 @@
   ],
   "u": "https://www.lanl.gov/engage/organizations/xcp/computational-physics-student-summer-workshop",
   "unv": "Citizenship requirement not stated; 2027 dates not posted",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "2 years, possibly 3; CNRS salary scale; start Oct 2027",
   "added": "2026-10-02",
+  "asub": [
+   "cos",
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-11-20",
@@ -4555,16 +5096,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32896",
-  "us": false,
-  "asub": [
-   "cos",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "3 years, renewable for 2 more. $6,777-$7,145 per month (union scale) plus a $10K per year research supplement.",
   "added": "2026-09-29",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-10-18",
@@ -4587,15 +5127,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32681",
-  "us": false,
-  "asub": [
-   "cos",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "1 year, renewable up to 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": null,
@@ -4618,15 +5158,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/29381",
-  "us": false,
-  "asub": [
-   "he",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "—",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-29",
   "d": null,
@@ -4648,14 +5187,14 @@
    "pd"
   ],
   "u": "https://www.ligo.caltech.edu/page/postdocs",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Summer stipend + travel",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-09-29",
   "d": null,
@@ -4678,14 +5217,14 @@
   ],
   "u": "https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/applicants-info.shtml",
   "unv": "2027 date",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "£51,000+; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-01",
@@ -4708,10 +5247,7 @@
    "pd"
   ],
   "u": "https://lims.ac.uk/jobs/arnold--landau-fellows/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed",
@@ -4743,6 +5279,11 @@
  {
   "a": "TV-L E13; 4 years (extensible)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-25",
@@ -4763,16 +5304,16 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/06255dfe",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "min $97,000; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-11",
@@ -4793,12 +5334,7 @@
    "pd"
   ],
   "u": "https://lanl.jobs/search/jobdetails/astrophysics-postdoctoral-researcher/53d46566-456a-46a9-8107-755a725b2849",
-  "us": false,
-  "asub": [
-   "cos",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "2 years",
@@ -4829,6 +5365,10 @@
  {
   "a": "French public research scale; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -4849,15 +5389,14 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/01fbe942",
-  "us": false,
-  "asub": [
-   "xgal",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "French public research scale; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -4880,10 +5419,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/c4281ec5",
-  "us": false,
-  "asub": [
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "Six one-week schools over 2 yr",
@@ -4965,6 +5501,9 @@
  {
   "a": "€5,011.96/month; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -4987,10 +5526,7 @@
    "pd"
   ],
   "u": "https://www.oeaw.ac.at/jobs?jh=uy5i0affp3iqf8t6bwrmcvptsjrjvhk",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "1 or 2 yrs of UK graduate study",
@@ -5024,6 +5560,9 @@
  {
   "a": "TVöD E13, 2–5 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-29",
   "d": "2026-11-23",
@@ -5045,10 +5584,7 @@
    "pd"
   ],
   "u": "https://www.aei.mpg.de/1513474/acr-postdoc-2027",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "See funder",
@@ -5071,6 +5607,37 @@
   ],
   "u": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/max-planck-humboldt-research-award",
   "us": false
+ },
+ {
+  "a": "At least 2000 hours in a 12-month cycle; Regular (up to 100 h), Large (100-300 h) and Extra-Large (300-2000 h) proposals",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2026 call (OT7) closed 15 Jul 2026, 12:00 UTC; next call not posted",
+  "e": "MeerKAT's yearly open-time call. Any researcher may lead a proposal, including postdocs and PhD students, from any institution.",
+  "f": "SARAO MeerKAT",
+  "fields": [
+   "astro"
+  ],
+  "n": "MeerKAT Open Time Call",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:meerkat-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://skaafrica.atlassian.net/wiki/spaces/ESDKB/pages/3080126470/2026+Call+for+Proposals",
+  "unv": "Next call date",
+  "us": false,
+  "id": "meerkat-open-time"
  },
  {
   "a": "$95,000 stipend rising 3%/yr + $10k/yr research fund; 3 yrs",
@@ -5103,6 +5670,10 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-02",
@@ -5127,15 +5698,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32742",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$73,000-$90,000 (12-month appointment)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-16",
@@ -5158,15 +5729,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32743",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$73,308-$90,000; 2 years, extendable to 3",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-04",
@@ -5188,14 +5758,16 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32518",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$73,300-$90,000; 2 years, possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "he",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -5217,12 +5789,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32370",
-  "us": false,
-  "asub": [
-   "xgal",
-   "he",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "3-yr stipend + $15k/yr discretionary research funds",
@@ -5255,6 +5822,9 @@
  {
   "a": "$88,000 stipend + $15,000 research + $5,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -5285,14 +5855,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32631",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$15,000 per 4–6 month unit (intern receives ≥$10,000); postdoc units $20,000 (≥$15,000 to postdoc)",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": null,
@@ -5316,14 +5886,14 @@
    "pd"
   ],
   "u": "https://www.mitacs.ca/our-programs/accelerate/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$6,000 for a 12–24 week project; $12,000 for 24–48 weeks or two projects",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Travel",
   "checked": "2026-10-01",
   "d": null,
@@ -5349,14 +5919,14 @@
   ],
   "u": "https://www.mitacs.ca/our-programs/globalink-research-award/",
   "unv": "Institution-level allocations and internal deadlines vary (e.g. UBC)",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "3 years (2027-2030); competitive salary plus EUR 10,000/yr research funds",
   "added": "2026-10-01",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": "2026-10-13",
@@ -5380,10 +5950,7 @@
    "pd"
   ],
   "u": "https://www.mitp.uni-mainz.de/mitp-senior-postdoctoral-fellowships-in-theoretical-physics/",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "Up to $10k serverless GPU credits",
@@ -5416,6 +5983,9 @@
  {
   "a": "About US$86,195–116,981/yr incl. 17% superannuation; 2 years, possibly extendable",
   "added": "2026-10-02",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-10-27",
@@ -5438,14 +6008,14 @@
    "pd"
   ],
   "u": "https://careers.pageuppeople.com/513/cw/en/job/698298/research-fellow",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "€67.5k–77.7k/yr; 4 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-08",
@@ -5467,14 +6037,14 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3208682",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "German civil-service rates (as for MPA postdocs); 4 years, not extendable",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-08",
@@ -5495,14 +6065,17 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/7885b453",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "€67,500–77,700 gross/yr; 3 years",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "xgal",
+   "he",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": "2026-11-15",
@@ -5524,17 +6097,14 @@
    "pd"
   ],
   "u": "https://www.mpa-garching.mpg.de/postdoc2026",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "TVöD Bund E14; 3 years, extendable to 5",
   "added": "2026-09-30",
+  "asub": [
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -5557,14 +6127,14 @@
    "pd"
   ],
   "u": "https://recruitingapp-5257.de.umantis.com/Vacancies/710/Application/CheckLogin/2?lang=eng",
-  "us": false,
-  "asub": [
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-13",
@@ -5585,14 +6155,14 @@
    "pd"
   ],
   "u": "https://postdocprogram.mpg.de/node/58457",
-  "us": false,
-  "asub": [
-   "exo"
-  ]
+  "us": false
  },
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -5613,14 +6183,14 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/87a62a5a",
-  "us": false,
-  "asub": [
-   "exo"
-  ]
+  "us": false
  },
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-13",
@@ -5642,14 +6212,14 @@
    "pd"
   ],
   "u": "https://postdocprogram.mpg.de/node/58458",
-  "us": false,
-  "asub": [
-   "exo"
-  ]
+  "us": false
  },
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-13",
@@ -5671,14 +6241,17 @@
    "pd"
   ],
   "u": "https://postdocprogram.mpg.de/node/58468",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "TVöD E14; 4 years (prize fellowship)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal",
+   "galac",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-17",
@@ -5699,17 +6272,16 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/1d7c9bc2",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal",
-   "galac",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star",
+   "ism"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -5730,12 +6302,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/07007ae4",
-  "us": false,
-  "asub": [
-   "exo",
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "3 years: 2 at U. Kentucky or LANL, then 1 at any N3AS partner. Starting salary $78K plus a travel allowance.",
@@ -5872,6 +6439,9 @@
  {
   "a": "Theory grants, ~3 yr",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -5892,14 +6462,14 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
   "unv": "ROSES-26 not released",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Student-led research award",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": null,
@@ -5921,14 +6491,14 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
   "unv": "ROSES-26 not released",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Prize-fellowship salary, up to 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-10-28",
@@ -5949,14 +6519,12 @@
    "pd"
   ],
   "u": "https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Ceiling $225,000; ~16 awards",
   "added": "2026-09-28",
+  "asub": [],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": "2026-10-28",
@@ -5982,12 +6550,72 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/e16481b7-0706-403d-a870-8f96b957f186",
+  "us": false
+ },
+ {
+  "a": "Infrared time on the 3-m IRTF on Maunakea",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Standing schedule: semester B calls open 1 Mar to 1 Apr (HST); 2027A closed 1 Oct 2026, 5 pm HST",
+  "e": "NASA's 3-m infrared telescope, with calls twice a year. Open to the general community.",
+  "f": "NASA Infrared Telescope Facility",
+  "fields": [
+   "astro"
+  ],
+  "n": "NASA IRTF Semester 2027B",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:irtf-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://irtfweb.ifa.hawaii.edu/observing/callforproposals/",
+  "unv": "2027B call not yet posted (the date range is the standing schedule); student PI eligibility",
   "us": false,
-  "asub": []
+  "id": "nasa-irtf-2027b"
+ },
+ {
+  "a": "NASA's share of Keck time, for science tied to NASA missions",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2027B not posted; 2027A closed 10 Sep 2026, 4 pm PT",
+  "e": "NASA's share of Keck nights. PIs must have their main affiliation at a US institution; there are some limits on co-investigators.",
+  "f": "NASA / NExScI / W. M. Keck Observatory",
+  "fields": [
+   "astro"
+  ],
+  "n": "NASA-Keck Call for Proposals 2027B",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:nasa-keck-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://nexsci.caltech.edu/missions/KeckSolicitation/",
+  "unv": "2027B dates; student PI eligibility",
+  "us": false,
+  "id": "nasa-keck-2027b"
  },
  {
   "a": "—",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -6008,10 +6636,7 @@
   ],
   "u": "https://science.nasa.gov/researchers/solicitations/roses-2025/",
   "unv": "ROSES-26 not released",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Paid internship",
@@ -6043,6 +6668,9 @@
  {
   "a": "From $70k + $10k/yr travel, 1–3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-01",
@@ -6065,14 +6693,14 @@
    "pd"
   ],
   "u": "https://npp.orau.org/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed",
   "added": "2026-09-28",
+  "asub": [
+   "exo"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": "2026-10-26",
@@ -6098,14 +6726,14 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/86414383-5e44-4e7b-88a9-7068e1c5b219",
-  "us": false,
-  "asub": [
-   "exo"
-  ]
+  "us": false
  },
  {
   "a": "Multi-node networks, up to 3 yr",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": "2026-10-15",
@@ -6132,14 +6760,15 @@
    "ten"
   ],
   "u": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "min NTD 65,800/month; 1 year, renewable to 4",
   "added": "2026-09-30",
+  "asub": [
+   "star",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -6161,15 +6790,14 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/5238c7ed",
-  "us": false,
-  "asub": [
-   "star",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -6191,14 +6819,17 @@
    "pd"
   ],
   "u": "http://nrc58.nas.edu/RAPLab10/Opportunity/Program.aspx?LabCode=64",
-  "us": true,
-  "asub": [
-   "he"
-  ]
+  "us": true
  },
  {
   "a": "3 years; Open Fellowships extendable to 5",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "xgal",
+   "he",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": "2026-10-31",
@@ -6222,17 +6853,14 @@
   ],
   "u": "https://www.ncra.tifr.res.in/jobs/academic/pdf",
   "unv": "Salary in AAS ad (US$8,000-9,200/month) looks garbled, so not recorded",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "commensurate with experience + health insurance + airfare; 1 year, renewable to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-31",
@@ -6254,10 +6882,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32554",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "3-yr fellowship (stipend + tuition)",
@@ -6319,6 +6944,37 @@
   "us": false
  },
  {
+  "a": "Cycle 9 offered small archival-analysis grants only, no new observing time",
+  "added": "2026-10-03",
+  "asub": [
+   "he"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 9 closed 17 Sep 2026, 4:30 pm ET; it covered archival data only",
+  "e": "NASA's NICER call; Cycle 9 offered funding for archival analysis and no new observations. Funding goes to US investigators.",
+  "f": "NASA NICER",
+  "fields": [
+   "astro"
+  ],
+  "n": "NICER General Observer",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "closed",
+  "src": "other:nicer-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/nicer/proposals/",
+  "unv": "Whether a Cycle 10 will happen",
+  "us": false,
+  "id": "nicer-go"
+ },
+ {
   "a": "Budget not capped; ~6 awards",
   "added": "2026-10-03",
   "c": "Federal grant",
@@ -6351,8 +7007,44 @@
   "us": false
  },
  {
+  "a": "US time on Gemini N/S, Blanco, SOAR, WIYN (NN-EXPLORE) and Subaru exchange; 2027A community access also included Magellan, CHARA, LBT, SALT, KMTNet, VST and Rubin in-kind telescopes",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2027B not posted; 2027A closed 30 Sep 2026, 11:59 pm MST",
+  "e": "The twice-yearly call for US open-access time on NSF ground-based telescopes. Mainly for US-based astronomers; non-US PIs must explain why they need US facilities. Graduate students may be PI; the advisor submits a thesis-student form.",
+  "f": "NSF NOIRLab (Gemini, CTIO Blanco, SOAR, KPNO WIYN, community access)",
+  "fields": [
+   "astro"
+  ],
+  "n": "NSF NOIRLab Semester 2027B Standard Call",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:noirlab-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals",
+  "unv": "2027B deadline not posted (B-semester proposals are normally due the last day of March)",
+  "us": false,
+  "id": "noirlab-2027b"
+ },
+ {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "he",
+   "star",
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-15",
@@ -6375,17 +7067,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32507",
-  "us": false,
-  "asub": [
-   "exo",
-   "he",
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "2 years, possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-18",
@@ -6406,15 +7096,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32643",
-  "us": false,
-  "asub": [
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$88.5k + $18.5k/yr research + $5k relocation, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-01",
@@ -6435,14 +7124,45 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/fellowship/32622",
+  "us": false
+ },
+ {
+  "a": "VLA, GBT and VLBA time (2027A offered about 3300, 2000 and 965 hours); joint time with ALMA, JWST, HST, Chandra, XMM and IXPE",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2027B call expected early January 2027 (NRAO lists the deadline as 3 Feb 2027, GBO as 27 Jan 2027); 2027A closed 29 Jul 2026, 17:00 EDT",
+  "e": "NRAO's twice-yearly call for its radio telescopes. Open to all, but from 27A the VLA and GBT limit time for PIs at non-US institutions.",
+  "f": "NSF NRAO / GBO",
+  "fields": [
+   "astro"
+  ],
+  "n": "NRAO Semester 2027B (VLA/VLBA/GBT/HSA/GMVA)",
+  "nfit": "Medium",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:nrao-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://science.nrao.edu/observing/call-for-proposals",
+  "unv": "2027B deadline not yet posted, and the NRAO and GBO pages list different dates",
   "us": false,
-  "asub": [
-   "he"
-  ]
+  "id": "nrao-2027b"
  },
  {
   "a": "$1,500 + certificate + NRAO colloquium invitation",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Prize",
   "checked": "2026-10-01",
   "d": "2026-12-15",
@@ -6464,14 +7184,14 @@
    "gr"
   ],
   "u": "https://science.nrao.edu/opportunities/student-programs/the-nrao-doctoral-dissertation-award",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Summer stipend",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-09-29",
   "d": null,
@@ -6495,14 +7215,14 @@
   ],
   "u": "https://science.nrao.edu/opportunities/student-programs/summerstudents",
   "unv": "2027 date",
-  "us": true,
-  "asub": [
-   "he"
-  ]
+  "us": true
  },
  {
   "a": "Stipend possible for US citizens/PRs; travel/housing support may be available; a few weeks to 6 months",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": null,
@@ -6524,14 +7244,14 @@
    "gr"
   ],
   "u": "https://science.nrao.edu/opportunities/co-op-internships/coop",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Stipend + NRAO computing + travel to present thesis; university covers tuition/benefits; several months to 2 years",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": null,
@@ -6554,14 +7274,12 @@
   ],
   "u": "https://science.nrao.edu/opportunities/student-programs/ReberFellowships",
   "unv": "Stipend amount, citizenship rules and next deadline not stated",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$75,000 + $17,000/yr research; 2 years",
   "added": "2026-09-30",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-28",
@@ -6583,12 +7301,14 @@
    "pd"
   ],
   "u": "https://science.nrao.edu/opportunities/postdoctoral-programs/jansky",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "Stipend up to 1 year + moving allowance + funded AAS meeting attendance",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": null,
@@ -6611,14 +7331,14 @@
   ],
   "u": "https://science.nrao.edu/opportunities/student-programs/nrao-post-baccalaureate-fellowship",
   "unv": "Whether a 2027 cycle will run is not stated",
-  "us": true,
-  "asub": [
-   "he"
-  ]
+  "us": true
  },
  {
   "a": "Up to $40,000/yr per investigator (student stipend, travel, computing)",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Observing time",
   "checked": "2026-10-01",
   "d": null,
@@ -6642,14 +7362,14 @@
   ],
   "u": "https://science.nrao.edu/opportunities/student-programs/sos",
   "unv": "Next SOS deadline not posted; whether non-US institutions are eligible not stated",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": null,
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Training",
   "checked": "2026-10-01",
   "d": null,
@@ -6672,14 +7392,14 @@
   ],
   "u": "https://science.nrao.edu/science/meetings/2026/2026_siw",
   "unv": "Fees/financial support and next date not stated",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "full salary + research/travel/relocation; up to 5 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-06",
@@ -6701,14 +7421,14 @@
    "pd"
   ],
   "u": "https://nrc.canada.ca/en/corporate/careers/canadian-ska-scientist-program-call-applications",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "CAD 83,985–116,641; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-02",
@@ -6730,14 +7450,18 @@
    "pd"
   ],
   "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job-invite/26055/",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "CAD 83,985–116,641; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-02",
@@ -6758,18 +7482,14 @@
    "pd"
   ],
   "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job-invite/26131/",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "Competitive salary and benefits; 3-year appointment",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": null,
@@ -6793,14 +7513,14 @@
   ],
   "u": "https://nrc.canada.ca/en/corporate/careers/covington-fellowship",
   "unv": "Next competition dates not announced",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "CAD 83,985–116,641/yr; 3-year Research Associate term",
   "added": "2026-10-02",
+  "asub": [
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-10-22",
@@ -6823,14 +7543,12 @@
    "pd"
   ],
   "u": "https://recruitment-recrutement.nrc-cnrc.gc.ca/job/Ottawa-Research-Associate-Integrated-Photonics-for-Space-Astronomy-ON/606001017/",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "not listed",
   "added": "2026-09-28",
+  "asub": [],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": "2026-09-30",
@@ -6858,12 +7576,14 @@
    "ten"
   ],
   "u": "https://simpler.grants.gov/opportunity/890987ab-43f2-4384-8acb-5fcfabb06854",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "No cap stated; up to 5 yr",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": "2026-11-16",
@@ -6889,14 +7609,14 @@
    "ten"
   ],
   "u": "https://www.nsf.gov/funding/opportunities/astro-core-astronomical-sciences-core-research",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "1–3 awards; science projects, mid-scale-level facilities, open-access capabilities",
   "added": "2026-09-28",
+  "asub": [
+   "inst"
+  ],
   "c": "Instrumentation",
   "checked": "2026-09-29",
   "d": "2026-11-16",
@@ -6922,14 +7642,14 @@
    "ten"
   ],
   "u": "https://www.nsf.gov/funding/opportunities/mps-astro-mps-astronomical-sciences-research-programs/nsf26-522/solicitation",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "$110k/yr ($75k stipend + $35k allowance), up to 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-10-15",
@@ -6956,10 +7676,7 @@
    "pd"
   ],
   "u": "https://www.nsf.gov/funding/opportunities/aapf-nsf-astronomy-astrophysics-postdoctoral-fellowships",
-  "us": true,
-  "asub": [
-   "he"
-  ]
+  "us": true
  },
  {
   "a": "5-yr award; ~500 awards/yr NSF-wide",
@@ -7105,6 +7822,9 @@
  {
   "a": "No cap stated; up to 5 yr",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -7131,10 +7851,7 @@
   ],
   "u": "https://www.nsf.gov/funding/opportunities/gp-gravitational-physics",
   "unv": "no target date posted",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$1,200,000-$3,600,000; total $16,000,000; ~10 awards",
@@ -7315,6 +8032,9 @@
  {
   "a": "Budgets and durations vary (26-523 total about $180M, 300 awards).",
   "added": "2026-09-28",
+  "asub": [
+   "cos"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -7341,14 +8061,15 @@
   ],
   "u": "https://www.nsf.gov/funding/opportunities/elementary-particle-physics-astrophysics-cosmology-theory",
   "unv": "No program-specific target date posted as of 2026-09-28",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "Budgets and durations vary.",
   "added": "2026-09-28",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -7375,11 +8096,7 @@
    "ten"
   ],
   "u": "https://www.nsf.gov/funding/opportunities/particle-astrophysics-experiment",
-  "us": false,
-  "asub": [
-   "cos",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "Institute-scale",
@@ -7527,6 +8244,37 @@
   "us": false
  },
  {
+  "a": "About 6.5 Ms standard plus 2 Ms large-program time; joint XMM-Newton (1.5 Ms) and XRISM (0.5 Ms) time; NASA funding for US investigators in Phase 2",
+  "added": "2026-10-03",
+  "asub": [
+   "he"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2027-01-28",
+  "dt": "Phase-1 due 28 Jan 2027 via ARK/RPS; time of day not stated on amendment page (usually 4:30 pm ET)",
+  "e": "NASA's call for hard X-ray observations with NuSTAR, issued as ROSES-25 Amendment 76 (Section 11 of D.3). Open to all; NASA funding goes only to US-based investigators.",
+  "f": "NASA NuSTAR (ROSES-25 D.3 AGIGO)",
+  "fields": [
+   "astro"
+  ],
+  "n": "NuSTAR GO Cycle 13",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "open",
+  "src": "other:nustar-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://science.nasa.gov/amendment-76-d-3-agigo-nustargeneral-observer-second-opportunity-in-roses-25/",
+  "unv": "Exact submission time of day; student PI eligibility",
+  "us": false,
+  "id": "nustar-go-cycle-13"
+ },
+ {
   "a": "Up to 30,000 H100 GPU-hours, RTX PRO 6000 GPUs or DGX Spark systems",
   "added": "2026-09-28",
   "c": "Compute",
@@ -7553,6 +8301,9 @@
  {
   "a": "usually 3 years (longer for exceptional candidates)",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -7574,14 +8325,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32872",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "€48k gross/yr + €5k/yr environment; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-16",
@@ -7603,14 +8354,14 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/6076de03",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "€3,131–4,341/month; 24 months",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-09-30",
@@ -7632,14 +8383,14 @@
    "pd"
   ],
   "u": "https://emploi.cnrs.fr/Offres/CDD/UMR8262-ELIBLA-005/Default.aspx?lang=EN",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "$67,000/yr + $10,000/yr research + $3,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-23",
@@ -7662,14 +8413,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32448",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "2 years, possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -7691,10 +8442,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32814",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Typically $750K over 36 months (≤$250K/yr); up to 25 awards",
@@ -7732,6 +8480,10 @@
  {
   "a": "not listed; 2+1 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-30",
@@ -7752,11 +8504,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/9ab70683",
-  "us": false,
-  "asub": [
-   "exo",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$3,800/month stipend",
@@ -7788,6 +8536,11 @@
  {
   "a": "36 months",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-02",
@@ -7810,12 +8563,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32694",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$875,000 over 5 yrs",
@@ -7875,6 +8623,9 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-14",
@@ -7896,14 +8647,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32553",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "3 yr (named fellowships 4 yr)",
   "added": "2026-09-29",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": "2026-11-06",
@@ -7927,11 +8679,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/PI/Research/2027PDF",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Funding for travel, workshops and computing; a subset get up to 2 years of stipend and tuition support",
@@ -7960,6 +8708,9 @@
  {
   "a": "Last cycle $77k, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": null,
@@ -7981,14 +8732,17 @@
   ],
   "u": "https://gravity.princeton.edu/job-opportunities",
   "unv": "2026 call not posted",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$65,000–99,000 (PDRA $65–86k; ARS $79–99k); 1 year, renewable",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "he",
+   "star",
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -8009,17 +8763,15 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/193062",
-  "us": false,
-  "asub": [
-   "exo",
-   "he",
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "$400 fee covers room and board; need-based scholarships; travel mostly not covered",
   "added": "2026-10-01",
+  "asub": [
+   "he",
+   "star"
+  ],
   "c": "Summer program",
   "checked": "2026-10-01",
   "d": null,
@@ -8042,15 +8794,15 @@
   ],
   "u": "https://pulsars.nanograv.org/psccamp",
   "unv": "2027 camp not confirmed",
-  "us": false,
-  "asub": [
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "min 260k CNY (first postdoc), 280k CNY (second postdoc)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-25",
@@ -8071,15 +8823,14 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3171411",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal"
-  ]
+  "us": false
  },
  {
   "a": "not listed; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-14",
@@ -8101,10 +8852,7 @@
    "pd"
   ],
   "u": "https://www.ru.nl/en/working-at/job-opportunities/postdoc-positions-origins-of-irreversibility",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$78,000 stipend + $5,000 project expenses; 1 yr in residence",
@@ -8186,6 +8934,9 @@
  {
   "a": "~JPY 480,000+/month; 1-year contracts renewable to Mar 2031",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": null,
@@ -8208,10 +8959,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/31692",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Travel + registration waiver",
@@ -8237,6 +8985,35 @@
   ],
   "u": "https://aas.org/grants-and-prizes/rodger-doxsey-travel-prize",
   "unv": "2026 date not posted",
+  "us": false
+ },
+ {
+  "a": "Observing time on SAAO's telescopes at Sutherland, applied for through the SAAO observer portal. SALT (partner-only) is not included. IRSF time is limited to researchers at South African or Japanese institutions. No funding.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2027-01-15",
+  "dt": "Fixed deadlines three times a year: 15 September for Jan-Apr, 15 January for May-Aug, and 15 May for Sep-Dec observing. The next is 15 January (May-Aug 2027 term). The time zone is not stated.",
+  "e": "South Africa's national optical/IR facility. It allocates time mainly to astronomers and postgraduate students in South Africa and at SALT partner institutes, and 'a certain percentage' to astronomers from around the world.",
+  "f": "SAAO (South African Astronomical Observatory) / NRF",
+  "fields": [
+   "astro"
+  ],
+  "id": "saao-sutherland-may-aug-2027",
+  "n": "SAAO Sutherland telescopes observing time (May-Aug 2027 term)",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:saao-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.saao.ac.za/astronomers/observing-overview/",
+  "unv": "The page gives recurring day-month deadlines without a year, so 2027-01-15 is the next occurrence of the stated 15 January deadline. The time zone, the size of the international share, and which telescopes are offered each term (listed on the Rota page) were not checked.",
   "us": false
  },
  {
@@ -8273,6 +9050,9 @@
  {
   "a": "Astronomy designated awards up to $5,000; members: grad $500–$5,000, undergrad $500–$2,000; non-members up to $1,000",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Scholarship",
   "checked": "2026-10-01",
   "d": "2026-10-01",
@@ -8296,10 +9076,7 @@
   ],
   "u": "https://www.sigmaxi.org/programs/grants-in-aid-of-research",
   "unv": "International-student eligibility not stated",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Up to $2M/yr for 4 yrs (renewable)",
@@ -8327,6 +9104,9 @@
  {
   "a": "Up to $125k salary replacement + $10k expenses + 20% overhead (max $162k)",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
   "d": "2026-10-01",
@@ -8346,14 +9126,14 @@
    "ten"
   ],
   "u": "https://www.simonsfoundation.org/grant/simons-fellows-in-mathematics/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Formerly sabbatical-extension salary support",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
   "d": null,
@@ -8375,10 +9155,7 @@
    "ten"
   ],
   "u": "https://www.simonsfoundation.org/grant/simons-fellows-in-theoretical-physics/",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "n/a",
@@ -8478,6 +9255,7 @@
  {
   "a": "5-year Associate Staff Scientist appointment with research support; review for continuing staff at or before the end.",
   "added": "2026-09-29",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-29",
   "d": null,
@@ -8502,8 +9280,7 @@
   ],
   "u": "https://cro.slac.stanford.edu/career-pathways/panofsky-fellowship",
   "unv": "Exact 2026 deadline not yet posted",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "3 years",
@@ -8561,8 +9338,41 @@
   }
  },
  {
+  "a": "Observing time from SAO's share of the SMA on Maunakea. Standard proposals can request up to 200 hours on source, and Large Scale projects of up to 1000 hours are offered from time to time.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "The last deadline (2026A) was Wed 4 Mar 2026, 16:00 EST. According to the July 2026 SMA Newsletter, the next call is planned for 2026B (observing 16 Nov 2026 - 15 May 2027). Its deadline is uncertain because of an extended summit shutdown. SMA aims to give at least 4 weeks' notice before the next deadline.",
+  "e": "Semester call for the SMA's SAO time, which follows an open-skies policy: proposals from institutions worldwide are judged on scientific merit. PIs need an SMA Observer account.",
+  "f": "Smithsonian Astrophysical Observatory (SMA, with ASIAA)",
+  "fields": [
+   "astro"
+  ],
+  "id": "sma-2026b-standard-call",
+  "n": "Submillimeter Array (SMA) Standard Observing Proposals, Semester 2026B",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:sma-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://lweb.cfa.harvard.edu/sma/Newsletters/pdfFiles/SMA_NewsJuly2026.pdf",
+  "unv": "The call page (sma1.sma.hawaii.edu/call.html) is served only over http, so the link goes to the July 2026 SMA Newsletter announcing the 2026B call. The next deadline is unknown because of an extended summit shutdown, and 2026A is on indefinite hold. Student-PI rules are not stated.",
+  "us": false
+ },
+ {
   "a": "13,263 PLN/month; up to 48 months",
   "added": "2026-09-30",
+  "asub": [
+   "star",
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-17",
@@ -8583,11 +9393,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/48ea5448",
-  "us": false,
-  "asub": [
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "Up to $2,000 travel + $500 student + $500 chapter",
@@ -8667,6 +9473,10 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -8690,15 +9500,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32589",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "up to 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -8719,11 +9529,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32623",
-  "us": false,
-  "asub": [
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$98,000/yr stipend plus up to $10,000/yr research funds; 3 years",
@@ -8778,6 +9584,9 @@
  {
   "a": "$84,875/yr; up to 3 years, non-extendable",
   "added": "2026-10-02",
+  "asub": [
+   "exo"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-02",
   "d": "2026-10-29",
@@ -8800,14 +9609,44 @@
    "pd"
   ],
   "u": "https://stsci.slideroom.com/#/permalink/program/91301/56TDfZ4aqB",
-  "us": true,
-  "asub": [
-   "exo"
-  ]
+  "us": true
+ },
+ {
+  "a": "Subaru nights (HSC, PFS, FOCAS, IRCS and others); US users can also get Subaru time through the NOIRLab/Gemini exchange",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "S27B not posted (normal deadline usually early to mid March, JST); S27A service closed 1 Oct 2026, noon JST",
+  "e": "Subaru's twice-yearly open-use call. Open to international PIs; US astronomers can also get Subaru time through NOIRLab.",
+  "f": "NAOJ Subaru Telescope",
+  "fields": [
+   "astro"
+  ],
+  "n": "Subaru Open Use Semester S27B",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:subaru-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.naoj.org/Observing/Proposals/call.html",
+  "unv": "S27B dates; foreign-PI limits not checked in detail",
+  "us": false,
+  "id": "subaru-s27b-open-use"
  },
  {
   "a": "not listed; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2027-02-01",
@@ -8830,15 +9669,14 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3204650",
-  "us": false,
-  "asub": [
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "competitive (comparable to US); 2+1 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-30",
@@ -8860,14 +9698,15 @@
    "pd"
   ],
   "u": "https://phy.sustech.edu.cn/faculty/detail/id/5298.html?lang=en-us",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "competitive (US-comparable) + housing/research support; 2 years, renewable to 5",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-31",
@@ -8890,11 +9729,38 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32225",
-  "us": false,
+  "us": false
+ },
+ {
+  "a": "Swift time plus NASA funding for US investigators",
+  "added": "2026-10-03",
   "asub": [
-   "cos",
-   "inst"
-  ]
+   "he"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "No Cycle 23 call posted; Cycle 22 closed 11 Sep 2025",
+  "e": "NASA's call for Swift observations and related studies. Open to all; NASA funding goes only to US investigators.",
+  "f": "NASA Neil Gehrels Swift Observatory",
+  "fields": [
+   "astro"
+  ],
+  "n": "Swift Guest Investigator Cycle 23",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:swift-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://swift.gsfc.nasa.gov/proposals/",
+  "unv": "Whether Cycle 23 will be solicited: NASA called off the planned commercial reboost on Aug 19, 2026, and Swift resumed operating two of its three instruments on Aug 28",
+  "us": false,
+  "id": "swift-gi-cycle-23"
  },
  {
   "a": "competitive (comparable to US); flexible terms",
@@ -8925,6 +9791,9 @@
  {
   "a": "competitive (US-comparable); 2+1 years, further 3 possible",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-20",
@@ -8947,14 +9816,18 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32303",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "at least RMB 312,000/yr + research fund; 3 years renewable",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-20",
@@ -8975,14 +9848,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32597",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "Up to $2.5M per project in Mathematical & Physical Sciences",
@@ -9013,6 +9879,38 @@
   }
  },
  {
+  "a": "TESS 2-min and 20-s target slots plus NASA funding for US investigators",
+  "added": "2026-10-03",
+  "asub": [
+   "exo",
+   "star"
+  ],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 10 not posted; Cycle 9 closed 10 Mar 2026; calls usually come in spring",
+  "e": "NASA's call to put targets on TESS and fund related science. Open to all; NASA funding goes only to US investigators.",
+  "f": "NASA TESS",
+  "fields": [
+   "astro"
+  ],
+  "n": "TESS Guest Investigator Cycle 10",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:tess-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/tess/proposing.html",
+  "unv": "Cycle 10 dates; ROSES-2026 not yet released",
+  "us": false,
+  "id": "tess-gi-cycle-10"
+ },
+ {
   "a": "Varies (research costs abroad)",
   "added": "2026-09-28",
   "c": "Yale internal",
@@ -9038,6 +9936,9 @@
  {
   "a": "Competitive salary and benefits; 2 years, possible 3rd",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": null,
@@ -9061,14 +9962,17 @@
   ],
   "u": "https://tsi.mcgill.ca/index.php?page=opportunities",
   "unv": "2027 posting, deadline and salary not yet published",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-15",
@@ -9090,17 +9994,14 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/5fa2601e",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed; 3 years (start Jan 2027)",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -9123,14 +10024,15 @@
    "pd"
   ],
   "u": "https://www.ph.nat.tum.de/cosmic-particles",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "£36,636–46,049; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-09-30",
@@ -9153,15 +10055,15 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/d4a4b376",
-  "us": false,
-  "asub": [
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "not listed; multiple positions",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-09",
@@ -9184,15 +10086,15 @@
    "pd"
   ],
   "u": "https://inspirehep.net/jobs/3205034",
-  "us": false,
-  "asub": [
-   "cos",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "CAD 75,516/yr + research allowance; 1 year, extendable to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -9215,15 +10117,12 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32620",
-  "us": false,
-  "asub": [
-   "cos",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "CAD 81,916/yr + CAD 20,000/yr research; 3 years (up to 5 for instrumentation)",
   "added": "2026-09-30",
+  "asub": [],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-09",
@@ -9245,12 +10144,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32533",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "about $5,705–6,000/month (as summarized); 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-01",
@@ -9273,15 +10175,14 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/194203",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "3 years; competitive salary + research/travel funds",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-31",
@@ -9304,14 +10205,16 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32853",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "2 years + possible 1-year extension",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -9333,12 +10236,7 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32646",
-  "us": false,
-  "asub": [
-   "cos",
-   "xgal",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed",
@@ -9368,6 +10266,9 @@
  {
   "a": "$71,491–85,736; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-04",
@@ -9388,14 +10289,14 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/e18b0a66",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "$71,491–80,000; min 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-15",
@@ -9417,14 +10318,15 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/95c9bf97",
-  "us": false,
-  "asub": [
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "~CNY 320,000/yr + travel funds; 2 years (+1)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-31",
@@ -9446,15 +10348,16 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32144",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$80,000/yr + $15,000/yr research; up to 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-01",
@@ -9477,16 +10380,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32565",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$70,000-$80,000 + research support; up to 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-06",
@@ -9510,15 +10412,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32842",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$70,000-$80,000",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-01",
   "d": "2026-11-01",
@@ -9542,14 +10443,17 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32888",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "he",
+   "star",
+   "ism"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-25",
@@ -9570,13 +10474,7 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/57813d20",
-  "us": false,
-  "asub": [
-   "xgal",
-   "he",
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "not listed; 3 years",
@@ -9608,6 +10506,10 @@
  {
   "a": "2 years, renewable for a third",
   "added": "2026-10-01",
+  "asub": [
+   "xgal",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-01",
   "d": "2026-11-30",
@@ -9629,15 +10531,14 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/1ce29275",
-  "us": false,
-  "asub": [
-   "xgal",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "Stipend at a GW group abroad",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-09-29",
   "d": null,
@@ -9658,14 +10559,14 @@
   ],
   "u": "https://ireu.phys.ufl.edu/",
   "unv": "2027 status",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "2-year fellowship, possible 3rd year; travel funds; start Aug 2027; salary not listed",
   "added": "2026-10-02",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-02",
   "d": "2026-12-01",
@@ -9688,14 +10589,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32907",
-  "us": true,
-  "asub": [
-   "he"
-  ]
+  "us": true
  },
  {
   "a": "EUR 3,706-5,760/month + 8% holiday + 8.3% year-end; 36 months",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-10-18",
@@ -9722,14 +10623,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32465",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-15",
@@ -9751,14 +10652,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32884",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "one 2-year and one 2+1-year position",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-11-22",
@@ -9780,15 +10682,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32750",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-14",
@@ -9810,14 +10711,12 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32880",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "$10,000 plus a talk at the Users Meeting.",
   "added": "2026-09-29",
+  "asub": [],
   "c": "Prize",
   "checked": "2026-09-29",
   "d": null,
@@ -9841,12 +10740,12 @@
   ],
   "u": "https://ura-hq.org/fellowships-awards/tollestrup-award/",
   "unv": "2027 deadline not yet posted",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "Up to $50K (lifetime maximum per person), for up to 1 year. Covers travel and lodging for short visits, or salary (at most 2 summer months) plus travel for longer stays.",
   "added": "2026-09-29",
+  "asub": [],
   "c": "Visiting program",
   "checked": "2026-09-29",
   "d": "2027-02-22",
@@ -9873,12 +10772,14 @@
    "gr"
   ],
   "u": "https://ura-hq.org/high-energy-physics-user-community/ura-visiting-scholars-program/",
-  "us": false,
-  "asub": []
+  "us": false
  },
  {
   "a": "RMB 150,000-200,000/yr; 2 years (+2)",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-31",
@@ -9902,14 +10803,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/29470",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "$80,000/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "star",
+   "ism"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-23",
@@ -9931,15 +10833,15 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/6f3e50b2",
-  "us": false,
-  "asub": [
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "from $71,490; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-04",
@@ -9960,15 +10862,15 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/bdbbb7e9",
-  "us": false,
-  "asub": [
-   "exo",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "$65,000-$70,000; 1 year renewable",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-10-30",
@@ -9990,15 +10892,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32699",
-  "us": false,
-  "asub": [
-   "cos",
-   "inst"
-  ]
+  "us": false
  },
  {
   "a": "$7,000 + free housing + food allowance + up to $800 travel",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-10-01",
   "d": null,
@@ -10021,14 +10922,15 @@
   ],
   "u": "https://www.utrgv.edu/stssi/education/reu/index.htm",
   "unv": "2027 program depends on NSF funding; no dates",
-  "us": true,
-  "asub": [
-   "he"
-  ]
+  "us": true
  },
  {
   "a": "not listed; 1 year, renewable up to 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2026-12-15",
@@ -10049,15 +10951,17 @@
    "pd"
   ],
   "u": "https://aas.org/jobregister/ad/342eb81d",
-  "us": false,
-  "asub": [
-   "xgal",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "up to 4 years, split between two Via partner institutions",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "galac",
+   "he",
+   "star"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-11",
@@ -10078,17 +10982,14 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32740",
-  "us": false,
-  "asub": [
-   "xgal",
-   "galac",
-   "he",
-   "star"
-  ]
+  "us": false
  },
  {
   "a": "EUR 5,079.50/month (EUR 71,113/yr); 48-month fixed term",
   "added": "2026-10-02",
+  "asub": [
+   "exo"
+  ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
   "d": "2026-10-15",
@@ -10111,10 +11012,7 @@
    "pd"
   ],
   "u": "https://jobs.univie.ac.at/job-invite/6123/",
-  "us": false,
-  "asub": [
-   "exo"
-  ]
+  "us": false
  },
  {
   "a": "$1M to $1.3M over 3 yrs; supports high-risk work and custom instrumentation",
@@ -10148,6 +11046,9 @@
  {
   "a": "$70,000 + $10,000/yr research; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-11-15",
@@ -10176,14 +11077,15 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32521",
-  "us": false,
-  "asub": [
-   "cos"
-  ]
+  "us": false
  },
  {
   "a": "not listed; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Fellowship",
   "checked": "2026-09-30",
   "d": "2026-12-15",
@@ -10205,15 +11107,18 @@
    "pd"
   ],
   "u": "https://www.weizmann.ac.il/AstroCenter/fellowship-submission/",
-  "us": false,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": false
  },
  {
   "a": "SAFE: salary said to be comparable to top US fellowships plus 150,000 RMB/yr research budget, 2 yr likely extended to 3; group postdocs 2 yr, extendable",
   "added": "2026-10-02",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "star",
+   "ism"
+  ],
   "c": "Fellowship",
   "checked": "2026-10-02",
   "d": "2026-12-31",
@@ -10235,18 +11140,15 @@
    "pd"
   ],
   "u": "https://apply.interfolio.com/194799",
-  "us": false,
-  "asub": [
-   "cos",
-   "exo",
-   "xgal",
-   "star",
-   "ism"
-  ]
+  "us": false
  },
  {
   "a": "$5,000 stipend + $300 travel + campus housing (per most recent posted details)",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "c": "Summer program",
   "checked": "2026-10-01",
   "d": null,
@@ -10269,11 +11171,94 @@
   ],
   "u": "https://gwac.wvu.edu/reu",
   "unv": "Page shows 2024 dates; stipend may be outdated; 2027 status unclear",
-  "us": true,
-  "asub": [
-   "cos",
-   "he"
-  ]
+  "us": true
+ },
+ {
+  "a": "XMM-Newton observing time for May 2027 to Apr 2028 (revs 5017-5200); joint time with NuSTAR and others available",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-10-09",
+  "dt": "9 Oct 2026, 12:00 UT",
+  "e": "ESA's annual call for XMM-Newton X-ray observations. Open to scientists worldwide with no nationality limit.",
+  "f": "ESA XMM-Newton",
+  "fields": [
+   "astro"
+  ],
+  "n": "XMM-Newton AO-26 Guest Observer",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:xmm-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://www.cosmos.esa.int/web/xmm-newton/ao26",
+  "unv": "Whether students can be PI not checked; NASA funding route for US PIs not checked",
+  "us": false,
+  "id": "xmm-newton-ao26"
+ },
+ {
+  "a": "XRISM Resolve/Xtend time; NASA funding for US investigators",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "Cycle 4 not posted; Cycle 3 closed 27 Feb 2026 (Type-1 at 4:30 pm EST)",
+  "e": "Call for observations with the XRISM X-ray spectroscopy mission. US and Canadian PIs apply through NASA, ESA-member PIs through ESA, and others through JAXA.",
+  "f": "JAXA/NASA/ESA XRISM",
+  "fields": [
+   "astro"
+  ],
+  "n": "XRISM GO Cycle 4",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "watch",
+  "src": "other:xrism-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://heasarc.gsfc.nasa.gov/docs/xrism/proposals/",
+  "unv": "Cycle 4 dates",
+  "us": false,
+  "id": "xrism-go-cycle-4"
+ },
+ {
+  "a": "Large, multi-year legacy observing programs. About 3 Ms is available in the first year starting June 1, 2027, and programs can run up to three years (June 2027 to May 2030). Data have no exclusive-use period. NASA plans to fund US-based investigators of successful proposals; details will be announced later.",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": "2026-12-03",
+  "dt": "Due Thursday, December 3, 2026, 23:59 UT (6:59 p.m. EST; 08:59 JST December 4). Submission is only through ARK/RPS at ISAS/JAXA, which opens mid-October 2026 and needs a separate JAXA account.",
+  "e": "First call for XRISM Key Programs, large legacy X-ray spectroscopy programs reviewed by a single international TAC, open to scientists worldwide with no restriction on affiliation. TAC reviewers may not be PI or Co-I.",
+  "f": "JAXA / XRISM Project (NASA plans funding for US investigators)",
+  "fields": [
+   "astro"
+  ],
+  "id": "xrism-key-program-first-call",
+  "n": "XRISM Key Program, First Call for Proposals",
+  "nom": false,
+  "pt": "other",
+  "region": "International",
+  "s": "open",
+  "src": "other:xrism-kp-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd"
+  ],
+  "u": "https://xrism.isas.jaxa.jp/research/proposer/key_program/index.html",
+  "unv": "The JAXA ARK/RPS for KP opens mid-October 2026, so it is not open yet. NASA funding amounts are not yet announced. The call does not state career-stage limits for PIs.",
+  "us": false
  },
  {
   "a": "Up to $30,000",
@@ -10422,6 +11407,41 @@
   "us": false
  },
  {
+  "a": "Yale's own nights on Keck I, Keck II and the Palomar 200-inch, observed remotely from Yale",
+  "added": "2026-10-03",
+  "asub": [],
+  "c": "Observing time",
+  "checked": "2026-10-03",
+  "d": null,
+  "dt": "2027B call not posted yet; 2027A closed Fri Sep 11, 2026, 5 pm ET",
+  "e": "Yale's internal allocation of its Keck and Palomar time, open only to the Yale community. Proposals use the TAC LaTeX template on the internal department site and are emailed as a PDF with the telescope cover sheet. For 27A, KPF was unavailable and DEIMOS was out Feb–Apr.",
+  "f": "Yale University Department of Astronomy",
+  "fields": [
+   "astro"
+  ],
+  "n": "Yale TAC Semester 2027B (Keck I/II, Palomar 200-inch)",
+  "nom": false,
+  "pt": "other",
+  "region": "US",
+  "s": "watch",
+  "src": "other:yale-tac-cfp",
+  "stages": [
+   "tt",
+   "ten",
+   "pd",
+   "gr"
+  ],
+  "u": "https://astronomy.yale.edu/facilities/yale-time-allocation-committee",
+  "unv": "Which career stages can be PI is not stated on the page; 2027B date",
+  "us": false,
+  "yale": {
+   "d": null,
+   "t": "Yale TAC call goes out each semester (27A was due Sep 11, 2026, 5 pm ET)",
+   "u": "https://astronomy.yale.edu/facilities/yale-time-allocation-committee"
+  },
+  "id": "yale-tac-keck-palomar-2027b"
+ },
+ {
   "a": "3 yr",
   "added": "2026-09-28",
   "c": "Fellowship",
@@ -10447,6 +11467,9 @@
  {
   "a": "2 years + possible 1",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
   "d": "2027-07-01",
@@ -10468,9 +11491,6 @@
    "pd"
   ],
   "u": "https://academicjobsonline.org/ajo/jobs/32277",
-  "us": false,
-  "asub": [
-   "he"
-  ]
+  "us": false
  }
 ]
