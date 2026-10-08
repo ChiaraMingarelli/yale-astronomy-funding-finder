@@ -22,7 +22,7 @@ The live page and any copy you host yourself have the same features, including:
 
 `engine/export_astro.py` builds the page's data from the shared catalog (rows tagged `ast`); `engine/astro_classify.py` assigns the eight research areas. `engine/export_mod.js` is the export and calendar-link code inlined in the page.
 
-This site is rebuilt automatically from the shared catalog in [funding-finders](https://github.com/ChiaraMingarelli/funding-finders) and copied here automatically a few times a day, so this page can be several hours behind the shared catalog. Don't edit `index.html` or `data/programs.json` here; the next update replaces them. The catalog is rechecked every Monday, new postings are added on the other days of the week, and the "What changed" notes are kept current daily. Deadlines move, so check the funder's page before you commit to a date.
+This site is rebuilt automatically from the shared catalog in [funding-finders](https://github.com/ChiaraMingarelli/funding-finders) and copied here automatically, usually within a few minutes of each update. Don't edit `index.html` or `data/programs.json` here; the next update replaces them. The catalog is rechecked every Monday, new postings are added on the other days of the week, and the "What changed" notes are kept current daily. Deadlines move, so check the funder's page before you commit to a date.
 
 ## License
 
